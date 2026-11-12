@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#FDF8F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17120F" media="(prefers-color-scheme: dark)">
+<meta name="description" content="小锅菜谱 —— 选几样食材，看看今晚能做什么。纯离线的中国家常菜谱。">
+<title>小锅菜谱 · 今天吃点什么</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <main id="view" class="view" role="main"></main>
+    <nav class="tabbar" id="tabbar" aria-label="主导航"></nav>
+  </div>
+
+  <div id="layers"></div>
+
+  <!-- 离线数据：全部内联，file:// 也能读 -->
+  <script src="data.js"></script>
+  <script src="images-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4042 @@
+{
+ "ingredient:abalone": {
+  "file": "images/ing-abalone.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鮑",
+  "page_url": "https://commons.wikimedia.org/wiki/File:LivingAbalone.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Sharktopus",
+  "px": 600,
+  "bytes": 97245
+ },
+ "ingredient:almond": {
+  "file": "images/ing-almond.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "杏仁",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Apricot_kernel_in_bowl.jpg",
+  "license": "CC0",
+  "author": "Shisma",
+  "px": 600,
+  "bytes": 75623
+ },
+ "ingredient:amaranth": {
+  "file": "images/ing-amaranth.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "苋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Amaranthus_tricolor6.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 90920
+ },
+ "ingredient:asparagus_lettuce": {
+  "file": "images/ing-asparagus_lettuce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "莴笋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Celtuce.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Downtowngal",
+  "px": 600,
+  "bytes": 45524
+ },
+ "ingredient:bacon": {
+  "file": "images/ing-bacon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "煙肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bacon_(8159047232).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "cyclonebill from Copenhagen, Denmark",
+  "px": 600,
+  "bytes": 73252
+ },
+ "ingredient:baking_powder": {
+  "file": "images/ing-baking_powder.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "發粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Backpulver_RZ.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Z ...",
+  "px": 600,
+  "bytes": 56117
+ },
+ "ingredient:bamboo_fungus": {
+  "file": "images/ing-bamboo_fungus.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "長裙竹蓀",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Phallus_indusiatus_from_Kerala,_India_-_20090824.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Ajaykuyiloor",
+  "px": 600,
+  "bytes": 91345
+ },
+ "ingredient:bamboo_shoot": {
+  "file": "images/ing-bamboo_shoot.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bamboo shoot",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bamboo_sprout2.JPG",
+  "license": "CC BY-SA 2.5",
+  "author": "Haragayato",
+  "px": 600,
+  "bytes": 93394
+ },
+ "ingredient:basil": {
+  "file": "images/ing-basil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "羅勒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Basil-Basilico-Ocimum_basilicum-albahaca.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Castielli",
+  "px": 600,
+  "bytes": 99585
+ },
+ "ingredient:bay_leaf": {
+  "file": "images/ing-bay_leaf.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "月桂葉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bay_Leaves.JPG",
+  "license": "Public domain",
+  "author": "Miansari66",
+  "px": 600,
+  "bytes": 53071
+ },
+ "ingredient:bean_paste": {
+  "file": "images/ing-bean_paste.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆瓣醬",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Doubanjiang.jpg",
+  "license": "CC BY 3.0",
+  "author": "Badagnani",
+  "px": 600,
+  "bytes": 59102
+ },
+ "ingredient:bean_sprout": {
+  "file": "images/ing-bean_sprout.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Mung bean sprout",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mung_bean_sprouts.jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "author": "국립국어원",
+  "px": 600,
+  "bytes": 47823
+ },
+ "ingredient:beef_brisket": {
+  "file": "images/ing-beef_brisket.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "牛腩",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Food_Brisket_Noodle_1.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "User:SHOLYWOD",
+  "px": 600,
+  "bytes": 96980
+ },
+ "ingredient:beef_mince": {
+  "file": "images/ing-beef_mince.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "牛肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:150418_Awaji_beef_at_Sumoto_Hyogo_pref_Japan01s5.jpg",
+  "license": "CC BY 2.5",
+  "author": "663highland",
+  "px": 600,
+  "bytes": 91263
+ },
+ "ingredient:beef_sirloin": {
+  "file": "images/ing-beef_sirloin.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef tenderloin",
+  "page_url": "https://commons.wikimedia.org/wiki/File:BeefCutTenderloin.png",
+  "license": "Public domain",
+  "author": "JoeSmack at English Wikipedia",
+  "px": 600,
+  "bytes": 30060
+ },
+ "ingredient:beef_tail": {
+  "file": "images/ing-beef_tail.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "牛尾",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Raw_oxtail-01.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "FotoosVanRobin",
+  "px": 600,
+  "bytes": 53670
+ },
+ "ingredient:beef_tripe": {
+  "file": "images/ing-beef_tripe.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tripe",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Trippa.jpg",
+  "license": "Public domain",
+  "author": "Lucarelli",
+  "px": 600,
+  "bytes": 58775
+ },
+ "ingredient:beer": {
+  "file": "images/ing-beer.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "啤酒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Aufse%C3%9F_Bier.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Benreis",
+  "px": 600,
+  "bytes": 88703
+ },
+ "ingredient:bell_pepper": {
+  "file": "images/ing-bell_pepper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菜椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Green,_yellow_and_red_bell_peppers.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 52441
+ },
+ "ingredient:bighead_carp": {
+  "file": "images/ing-bighead_carp.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bighead carp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bighead_carp_(March_2012).jpg",
+  "license": "CC BY 2.0",
+  "author": "Invasive Carp Regional Coordinating Committee",
+  "px": 600,
+  "bytes": 85007
+ },
+ "ingredient:bitter_melon": {
+  "file": "images/ing-bitter_melon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "苦瓜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia)",
+  "px": 600,
+  "bytes": 60160
+ },
+ "ingredient:black_bean": {
+  "file": "images/ing-black_bean.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Soybean",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 51605
+ },
+ "ingredient:black_pepper": {
+  "file": "images/ing-black_pepper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "胡椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 74542
+ },
+ "ingredient:black_rice": {
+  "file": "images/ing-black_rice.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "紫米",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Black_Rice.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sanjay Acharya",
+  "px": 600,
+  "bytes": 83967
+ },
+ "ingredient:black_vinegar": {
+  "file": "images/ing-black_vinegar.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "醋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Fairwood_Vinegar_Red.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "No machine-readable author provided. GS417~commonswiki assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 85074
+ },
+ "ingredient:bokchoy": {
+  "file": "images/ing-bokchoy.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "小白菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Starr_080607-7271_Brassica_campestris_var._chinensis.jpg",
+  "license": "CC BY 3.0",
+  "author": "Forest & Kim Starr",
+  "px": 600,
+  "bytes": 105399
+ },
+ "ingredient:bread": {
+  "file": "images/ing-bread.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麵包",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "3268zauber",
+  "px": 600,
+  "bytes": 87638
+ },
+ "ingredient:broad_bean": {
+  "file": "images/ing-broad_bean.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蚕豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:W_soramame4031.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "‘Uncle Carl’ (カールおじさん).",
+  "px": 600,
+  "bytes": 79674
+ },
+ "ingredient:broccoli": {
+  "file": "images/ing-broccoli.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "西蘭花",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Broccoli_bunches.jpg",
+  "license": "GFDL 1.2",
+  "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8",
+  "px": 600,
+  "bytes": 121656
+ },
+ "ingredient:brown_sugar": {
+  "file": "images/ing-brown_sugar.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Brown sugar",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sucre_blanc_cassonade_complet_rapadura.jpg",
+  "license": "Public domain",
+  "author": "Romain Behar",
+  "px": 600,
+  "bytes": 120042
+ },
+ "ingredient:buckwheat_noodle": {
+  "file": "images/ing-buckwheat_noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "荞麦面",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Seiro_soba_at_Takasho_in_Nezu,_Tokyo.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "m-louis from Seiro (soba) at Soba Restaurant Takasho in Nezu, Tokyo東京都文京区根津にある蕎麦屋「鷹匠」の蒸籠（蕎麦）",
+  "px": 600,
+  "bytes": 67702
+ },
+ "ingredient:butter": {
+  "file": "images/ing-butter.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "黄油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%D5%8D%D6%83%D6%80%D5%A5%D5%A4.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Armmark",
+  "px": 600,
+  "bytes": 61029
+ },
+ "ingredient:button_mushroom": {
+  "file": "images/ing-button_mushroom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "香杏丽蘑",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Calocybe_gambosa_080420wa.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "User:Strobilomyces",
+  "px": 600,
+  "bytes": 95973
+ },
+ "ingredient:cabbage": {
+  "file": "images/ing-cabbage.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "結球甘藍",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cabbage.jpg",
+  "license": "Public domain",
+  "author": "Bill Tarpenning",
+  "px": 600,
+  "bytes": 89903
+ },
+ "ingredient:cardamom": {
+  "file": "images/ing-cardamom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "草果",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lanxangia_tsao-ko_imported_from_iNaturalist_photo_111001922_on_29_January_2024.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "(c) Jan Vršovský, some rights reserved (CC BY-SA)",
+  "px": 600,
+  "bytes": 95354
+ },
+ "ingredient:carrot": {
+  "file": "images/ing-carrot.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "胡萝卜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-037.jpg",
+  "license": "CC BY 3.0",
+  "author": "Bi-frie (talk)",
+  "px": 600,
+  "bytes": 50763
+ },
+ "ingredient:cashew": {
+  "file": "images/ing-cashew.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "腰果",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 74598
+ },
+ "ingredient:cauliflower": {
+  "file": "images/ing-cauliflower.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花椰菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:A_Cauliflowers_in_Yuen_Long.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 95898
+ },
+ "ingredient:celery": {
+  "file": "images/ing-celery.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "旱芹",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Snijselderij_Apium_graveolens.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rasbak",
+  "px": 600,
+  "bytes": 89209
+ },
+ "ingredient:century_egg": {
+  "file": "images/ing-century_egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "皮蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Century_egg_sliced_open.jpeg",
+  "license": "CC BY-SA 3.0",
+  "author": "en:User:Kowloonese",
+  "px": 600,
+  "bytes": 50253
+ },
+ "ingredient:char_siu_sauce": {
+  "file": "images/ing-char_siu_sauce.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Char siu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Charsiu.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Simon Shek",
+  "px": 400,
+  "bytes": 52813
+ },
+ "ingredient:cheese": {
+  "file": "images/ing-cheese.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "乾酪",
+  "page_url": "https://commons.wikimedia.org/wiki/File:International_cheese_platters.jpg",
+  "license": "CC BY 2.0",
+  "author": "Tim Reckmann",
+  "px": 600,
+  "bytes": 49585
+ },
+ "ingredient:chestnut": {
+  "file": "images/ing-chestnut.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "板栗",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Castanea_mollissima,_Hangzhou_Botanical_Garden_2018.06.03_15-41-48.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Zhangzhugang",
+  "px": 600,
+  "bytes": 100915
+ },
+ "ingredient:chicken_bones": {
+  "file": "images/ing-chicken_bones.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鸡",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Andrei Niemimäki from Turku, Finland",
+  "px": 600,
+  "bytes": 72100
+ },
+ "ingredient:chicken_bouillon": {
+  "file": "images/ing-chicken_bouillon.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bouillon cube",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Br%C3%BChw%C3%BCrfel-1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Z ...",
+  "px": 600,
+  "bytes": 55430
+ },
+ "ingredient:chicken_breast": {
+  "file": "images/ing-chicken_breast.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chicken as food",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chickens_in_market.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Tomás Castelazo",
+  "px": 600,
+  "bytes": 92588
+ },
+ "ingredient:chicken_feet": {
+  "file": "images/ing-chicken_feet.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chicken feet",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_feet.jpg",
+  "license": "Public domain",
+  "author": "User:Anna Frodesiak",
+  "px": 600,
+  "bytes": 112508
+ },
+ "ingredient:chicken_leg": {
+  "file": "images/ing-chicken_leg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "雞腿",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E6%82%9F%E9%A5%95%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85_%E9%9B%9E%E8%85%BF%E9%A3%AF%E5%8C%85_20170414.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "王新漢",
+  "px": 600,
+  "bytes": 51065
+ },
+ "ingredient:chicken_mince": {
+  "file": "images/ing-chicken_mince.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "雞肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hainanese_Chicken_from_Chicken_Hot_Pot.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 63233
+ },
+ "ingredient:chicken_wing": {
+  "file": "images/ing-chicken_wing.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "雞翅",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Food_Chicken_Wings_Party_903_a.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "WINGSEN",
+  "px": 600,
+  "bytes": 88233
+ },
+ "ingredient:chickpea": {
+  "file": "images/ing-chickpea.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鹰嘴豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sa-whitegreen-chickpea.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Sanjay Acharya",
+  "px": 600,
+  "bytes": 102207
+ },
+ "ingredient:chili_oil": {
+  "file": "images/ing-chili_oil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "辣椒油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chilioil.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Alpha",
+  "px": 600,
+  "bytes": 57902
+ },
+ "ingredient:chive_sprout": {
+  "file": "images/ing-chive_sprout.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "韭菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Allium_tuberosum2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "KENPEI",
+  "px": 600,
+  "bytes": 115336
+ },
+ "ingredient:chives": {
+  "file": "images/ing-chives.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "韭菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Allium_tuberosum2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "KENPEI",
+  "px": 600,
+  "bytes": 115336
+ },
+ "ingredient:chrysanthemum": {
+  "file": "images/ing-chrysanthemum.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "茼蒿",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Glebionis_February_2008-1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Alvesgaspar",
+  "px": 600,
+  "bytes": 58151
+ },
+ "ingredient:cinnamon": {
+  "file": "images/ing-cinnamon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "桂皮",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ground_Cinnamon_Powder_and_a_Cinnamon_Stick.jpg",
+  "license": "CC BY 2.0",
+  "author": "formulatehealth",
+  "px": 600,
+  "bytes": 35332
+ },
+ "ingredient:clam": {
+  "file": "images/ing-clam.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菲律賓蛤仔",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ruditapes_philippinarum.jpg",
+  "license": "Public domain",
+  "author": "Original file",
+  "px": 600,
+  "bytes": 51809
+ },
+ "ingredient:coconut_milk": {
+  "file": "images/ing-coconut_milk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "椰浆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cocojf.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Ramon FVelasquez",
+  "px": 600,
+  "bytes": 40430
+ },
+ "ingredient:cola": {
+  "file": "images/ing-cola.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "可乐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg",
+  "license": "Public domain",
+  "author": "Ralf Roletschek",
+  "px": 600,
+  "bytes": 27324
+ },
+ "ingredient:condensed_milk": {
+  "file": "images/ing-condensed_milk.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Condensed milk",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2016-03-26-Gezuckerte_Kondensmilch-4699.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Superbass",
+  "px": 600,
+  "bytes": 40662
+ },
+ "ingredient:cooked_rice": {
+  "file": "images/ing-cooked_rice.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "米飯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Meshi_001.jpg",
+  "license": "CC0",
+  "author": "Ocdp",
+  "px": 600,
+  "bytes": 54290
+ },
+ "ingredient:cordyceps_flower": {
+  "file": "images/ing-cordyceps_flower.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cordyceps militaris",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2010-08-06_Cordyceps_militaris_1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Andreas Kunze",
+  "px": 600,
+  "bytes": 101190
+ },
+ "ingredient:coriander": {
+  "file": "images/ing-coriander.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芫荽",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 76391
+ },
+ "ingredient:corn": {
+  "file": "images/ing-corn.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "玉米",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 100550
+ },
+ "ingredient:corn_oil": {
+  "file": "images/ing-corn_oil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "粟米油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Olive_oil_from_Oneglia.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Lemone",
+  "px": 600,
+  "bytes": 53509
+ },
+ "ingredient:cornmeal": {
+  "file": "images/ing-cornmeal.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cornmeal",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Polenta_uncooked.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Popo le Chien",
+  "px": 600,
+  "bytes": 106450
+ },
+ "ingredient:crab": {
+  "file": "images/ing-crab.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "中華絨螯蟹",
+  "page_url": "https://commons.wikimedia.org/wiki/File:EriocheirSinensis1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Christian Fischer",
+  "px": 600,
+  "bytes": 111810
+ },
+ "ingredient:crab_stick": {
+  "file": "images/ing-crab_stick.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蟹肉棒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kanikama.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Original uploader was Natto at ja.wikipedia",
+  "px": 600,
+  "bytes": 63976
+ },
+ "ingredient:crayfish": {
+  "file": "images/ing-crayfish.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Procambarus clarkii",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Procambarus_clarkii.jpg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. MikeMurphy assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 67399
+ },
+ "ingredient:cream": {
+  "file": "images/ing-cream.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "掼奶油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kakao_mit_Sahne_281104.jpg",
+  "license": "CC BY-SA 2.0 de",
+  "author": "Herrick with Olympus C-220 Zoom",
+  "px": 600,
+  "bytes": 74092
+ },
+ "ingredient:cream_cheese": {
+  "file": "images/ing-cream_cheese.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "奶油芝士",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Philadelphia_cream_cheese.JPG",
+  "license": "Public domain",
+  "author": "Leo Johannes",
+  "px": 600,
+  "bytes": 56126
+ },
+ "ingredient:crucian_carp": {
+  "file": "images/ing-crucian_carp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鲫鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HongKongGoldfish.jpg",
+  "license": "CC BY 2.0",
+  "author": "Laszlo-photo",
+  "px": 600,
+  "bytes": 85386
+ },
+ "ingredient:cucumber": {
+  "file": "images/ing-cucumber.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "黄瓜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cucumis_sativus1.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 57006
+ },
+ "ingredient:cuttlefish": {
+  "file": "images/ing-cuttlefish.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "墨鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Georgia_Aquarium_-_Cuttlefish_Jan_2006.jpg",
+  "license": "CC BY 2.5",
+  "author": "Diliff",
+  "px": 600,
+  "bytes": 71352
+ },
+ "ingredient:daikon": {
+  "file": "images/ing-daikon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "萝卜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Daikon.Japan.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Chris 73",
+  "px": 600,
+  "bytes": 43363
+ },
+ "ingredient:dark_soy": {
+  "file": "images/ing-dark_soy.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酱油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:20250723_Renchang_Jiangyuan.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Yumeto",
+  "px": 600,
+  "bytes": 88605
+ },
+ "ingredient:daylily": {
+  "file": "images/ing-daylily.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "黄花菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hemerocallis_citrina_h%C3%A9m%C3%A9rocalle.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0",
+  "px": 600,
+  "bytes": 104516
+ },
+ "ingredient:douchi": {
+  "file": "images/ing-douchi.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆豉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Douchiphoto.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "FotoosVanRobin from Netherlands",
+  "px": 600,
+  "bytes": 73441
+ },
+ "ingredient:dried_bamboo": {
+  "file": "images/ing-dried_bamboo.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bamboo shoot",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bamboo_sprout2.JPG",
+  "license": "CC BY-SA 2.5",
+  "author": "Haragayato",
+  "px": 600,
+  "bytes": 93394
+ },
+ "ingredient:dried_chili": {
+  "file": "images/ing-dried_chili.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chili pepper",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 50537
+ },
+ "ingredient:dried_longan": {
+  "file": "images/ing-dried_longan.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "龙眼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dimocarpus_longan_fruits.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 64612
+ },
+ "ingredient:dried_mushroom": {
+  "file": "images/ing-dried_mushroom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "香菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg",
+  "license": "CC BY 2.0",
+  "author": "frankenstoen from Portland, Oregon",
+  "px": 600,
+  "bytes": 71290
+ },
+ "ingredient:dried_radish": {
+  "file": "images/ing-dried_radish.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Daikon",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Different_kinds_of_White_Radish.png",
+  "license": "CC BY-SA 4.0",
+  "author": "KimYunmi",
+  "px": 600,
+  "bytes": 63661
+ },
+ "ingredient:dried_scallop": {
+  "file": "images/ing-dried_scallop.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "干貝",
+  "page_url": "https://commons.wikimedia.org/wiki/File:BCfood17.JPG",
+  "license": "Public domain",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 56416
+ },
+ "ingredient:dried_shrimp": {
+  "file": "images/ing-dried_shrimp.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Dried shrimp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dried_river_shrimp.JPG",
+  "license": "CC BY 3.0",
+  "author": "Humanfeather / Michelle Jo",
+  "px": 600,
+  "bytes": 44668
+ },
+ "ingredient:dried_squid": {
+  "file": "images/ing-dried_squid.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "魷",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Loligo_vulgaris.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Hans Hillewaert",
+  "px": 600,
+  "bytes": 58421
+ },
+ "ingredient:dried_tofu": {
+  "file": "images/ing-dried_tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "ingredient:dried_whitebait": {
+  "file": "images/ing-dried_whitebait.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Whitebait",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gianchetti_and_poutine.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Elisa Prato from Firenze, Italy",
+  "px": 600,
+  "bytes": 68072
+ },
+ "ingredient:duck": {
+  "file": "images/ing-duck.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鸭",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ruddy.shelduck.arp.2.750pix.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 49963
+ },
+ "ingredient:duck_breast": {
+  "file": "images/ing-duck_breast.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Duck as food",
+  "page_url": "https://commons.wikimedia.org/wiki/File:And_(24559569447).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "cyclonebill from Copenhagen, Denmark",
+  "px": 600,
+  "bytes": 52413
+ },
+ "ingredient:duck_egg": {
+  "file": "images/ing-duck_egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鴨蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Duck_eggs.jpg",
+  "license": "CC0",
+  "author": "Wilfredor",
+  "px": 600,
+  "bytes": 99478
+ },
+ "ingredient:duck_neck": {
+  "file": "images/ing-duck_neck.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Duck as food",
+  "page_url": "https://commons.wikimedia.org/wiki/File:And_(24559569447).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "cyclonebill from Copenhagen, Denmark",
+  "px": 600,
+  "bytes": 52413
+ },
+ "ingredient:duck_wing": {
+  "file": "images/ing-duck_wing.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Duck as food",
+  "page_url": "https://commons.wikimedia.org/wiki/File:And_(24559569447).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "cyclonebill from Copenhagen, Denmark",
+  "px": 600,
+  "bytes": 52413
+ },
+ "ingredient:dumpling_wrapper": {
+  "file": "images/ing-dumpling_wrapper.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Jiaozi",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%8D%97%E6%8A%95%E8%8D%89%E5%B1%AF%E6%B0%B4%E9%A4%83Nantou,_Taiwan_Caotun_dumplings.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Yeepunchmen",
+  "px": 600,
+  "bytes": 104129
+ },
+ "ingredient:edamame": {
+  "file": "images/ing-edamame.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "毛豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Edamame_by_Zesmerelda_in_Chicago.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Tammy Green (aka Zesmerelda) from Chicago Upscale Dining + Lounge Republic Pan-Asian Restaurant [1] in Ontario & Rush St",
+  "px": 600,
+  "bytes": 56358
+ },
+ "ingredient:eel": {
+  "file": "images/ing-eel.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鰻",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Anguilla_japonica_1856.jpg",
+  "license": "Public domain",
+  "author": "Brevoort, James Carson, 1818-1887",
+  "px": 600,
+  "bytes": 42491
+ },
+ "ingredient:egg": {
+  "file": "images/ing-egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "雞蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:A_Basket_of_Chicken_Eggs_at_Tuen_Mun.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 85459
+ },
+ "ingredient:egg_white": {
+  "file": "images/ing-egg_white.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蛋白",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_egg01_monovular.jpg",
+  "license": "CC BY 3.0",
+  "author": "miya",
+  "px": 600,
+  "bytes": 30404
+ },
+ "ingredient:egg_yolk": {
+  "file": "images/ing-egg_yolk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蛋黃",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_egg01_monovular.jpg",
+  "license": "CC BY 3.0",
+  "author": "miya",
+  "px": 600,
+  "bytes": 30404
+ },
+ "ingredient:enoki": {
+  "file": "images/ing-enoki.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "金針菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "frankenstoen",
+  "px": 600,
+  "bytes": 63302
+ },
+ "ingredient:evaporated_milk": {
+  "file": "images/ing-evaporated_milk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "淡奶",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dosenmilch.jpg",
+  "license": "Public domain",
+  "author": "HV",
+  "px": 600,
+  "bytes": 47573
+ },
+ "ingredient:fennel": {
+  "file": "images/ing-fennel.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "茴香",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Foeniculum_vulgare_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-148.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 83787
+ },
+ "ingredient:fennel_seed": {
+  "file": "images/ing-fennel_seed.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "茴香",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Foeniculum_vulgare_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-148.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 83787
+ },
+ "ingredient:fermented_chili": {
+  "file": "images/ing-fermented_chili.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "剁椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chopped_chilli_on_a_shelf.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "維基小霸王",
+  "px": 600,
+  "bytes": 104498
+ },
+ "ingredient:fermented_rice": {
+  "file": "images/ing-fermented_rice.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酒釀",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kueh_hrua_lau_cau.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "User Polyhedron on zh.wikipedia",
+  "px": 600,
+  "bytes": 61811
+ },
+ "ingredient:fermented_tofu": {
+  "file": "images/ing-fermented_tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "腐乳",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%B9%BF%E5%90%88%E8%85%90%E4%B9%B3.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Victor-boy",
+  "px": 600,
+  "bytes": 55883
+ },
+ "ingredient:fish_ball": {
+  "file": "images/ing-fish_ball.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鱼丸",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fish_ball_and_fish_meat_slice.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 95162
+ },
+ "ingredient:fish_maw": {
+  "file": "images/ing-fish_maw.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Fish maw",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fish_Maw_steak_with_abalone_and_broccoli_at_Red_Dukes_Banquet.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 55516
+ },
+ "ingredient:fish_sauce": {
+  "file": "images/ing-fish_sauce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "魚露",
+  "page_url": "https://commons.wikimedia.org/wiki/File:09975jfSauces_of_the_Philippinesfvf_03.jpg",
+  "license": "CC0",
+  "author": "Judgefloro",
+  "px": 600,
+  "bytes": 122707
+ },
+ "ingredient:fish_tofu": {
+  "file": "images/ing-fish_tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "魚腐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%AD%9C%E7%84%B6%E6%B2%B9%E7%82%B8%E9%B1%BC%E8%B1%86%E8%85%90.jpg",
+  "license": "CC0",
+  "author": "Suginami",
+  "px": 600,
+  "bytes": 82855
+ },
+ "ingredient:flour": {
+  "file": "images/ing-flour.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麵粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:All-Purpose_Flour_(4107895947).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Veganbaking.net from USA",
+  "px": 600,
+  "bytes": 38615
+ },
+ "ingredient:fresh_noodle": {
+  "file": "images/ing-fresh_noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "面条",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chinese_noodle_soup_with_octopus_ball_and_lamb_meat_with_pork_belly_and_fu_jok.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 83605
+ },
+ "ingredient:fried_tofu": {
+  "file": "images/ing-fried_tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "油豆腐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Atsuage.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "I (Potesara) took this photograph.",
+  "px": 600,
+  "bytes": 56327
+ },
+ "ingredient:frozen_tofu": {
+  "file": "images/ing-frozen_tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "ingredient:garlic": {
+  "file": "images/ing-garlic.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蒜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg",
+  "license": "Public domain",
+  "author": "https://web.archive.org/web/20050304045828/http://www.meemelink.com/prints%20pages/16759.Liliaceae%20-%20Allium%20sativu",
+  "px": 600,
+  "bytes": 44168
+ },
+ "ingredient:ginger": {
+  "file": "images/ing-ginger.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "生薑",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ginger_rhizome.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Mk2010",
+  "px": 600,
+  "bytes": 46805
+ },
+ "ingredient:glutinous_flour": {
+  "file": "images/ing-glutinous_flour.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "糯米粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Pancake_cooking_Sept-2010_Ingredient_%E7%B3%AF%E7%B1%B3%E7%B2%89_Glutinous_Rice_Flour.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Ocomejessian",
+  "px": 600,
+  "bytes": 84007
+ },
+ "ingredient:glutinous_rice": {
+  "file": "images/ing-glutinous_rice.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "糯稻",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Oryza_glutinosa_beras_ketan.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Taman Renyah",
+  "px": 600,
+  "bytes": 70168
+ },
+ "ingredient:goji": {
+  "file": "images/ing-goji.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "枸杞",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lycium_chinense(siamak_sabet)_(2).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Siamaksabet",
+  "px": 600,
+  "bytes": 40602
+ },
+ "ingredient:grass_carp": {
+  "file": "images/ing-grass_carp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "草鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ctenopharyngodon_idella.jpg",
+  "license": "CC BY 3.0",
+  "author": "Dezidor",
+  "px": 600,
+  "bytes": 95571
+ },
+ "ingredient:green_beans": {
+  "file": "images/ing-green_beans.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菜豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Snijboon_peulen_Phaseolus_vulgaris.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rasbak",
+  "px": 600,
+  "bytes": 93545
+ },
+ "ingredient:green_pepper": {
+  "file": "images/ing-green_pepper.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bell pepper",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Kham Tran - www.khamtran.com",
+  "px": 600,
+  "bytes": 30694
+ },
+ "ingredient:ham": {
+  "file": "images/ing-ham.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "火腿",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Jam%C3%B3n_ib%C3%A9rico_de_bellota_Gran_Reserva_Or.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Guanbirra",
+  "px": 600,
+  "bytes": 85825
+ },
+ "ingredient:hand_pancake": {
+  "file": "images/ing-hand_pancake.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cong you bing",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spring_onion_pancake_2013.JPG",
+  "license": "GFDL",
+  "author": "Howard61313",
+  "px": 600,
+  "bytes": 105218
+ },
+ "ingredient:high_gluten_flour": {
+  "file": "images/ing-high_gluten_flour.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麵粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:All-Purpose_Flour_(4107895947).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Veganbaking.net from USA",
+  "px": 600,
+  "bytes": 38615
+ },
+ "ingredient:hoisin_sauce": {
+  "file": "images/ing-hoisin_sauce.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Hoisin sauce",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hoisin_sauce_1.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "allen watkin from London, UK",
+  "px": 600,
+  "bytes": 81723
+ },
+ "ingredient:honey": {
+  "file": "images/ing-honey.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蜂蜜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%D0%A8%D1%83%D0%BC%D1%81%D0%BA%D0%B8_%D0%BC%D0%B5%D0%B4.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Стефанија Видовски",
+  "px": 600,
+  "bytes": 57037
+ },
+ "ingredient:hot_pepper": {
+  "file": "images/ing-hot_pepper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "灌木状辣椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tabasco_peppers.JPG",
+  "license": "Public domain",
+  "author": "Unknown authorUnknown author",
+  "px": 600,
+  "bytes": 97047
+ },
+ "ingredient:instant_noodle": {
+  "file": "images/ing-instant_noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "即食麵",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mama_instant_noodle_block.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 104471
+ },
+ "ingredient:jellyfish": {
+  "file": "images/ing-jellyfish.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "海蜇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rhopilema_esculentum_at_Monterey_Bay_Aquarium.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Bill Abbott",
+  "px": 600,
+  "bytes": 57037
+ },
+ "ingredient:job_tears": {
+  "file": "images/ing-job_tears.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "薏苡",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Coix_lacryma-jobi1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 71689
+ },
+ "ingredient:kelp": {
+  "file": "images/ing-kelp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "海帶",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kombu.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Alice Wiegand, (Lyzzy)",
+  "px": 600,
+  "bytes": 66022
+ },
+ "ingredient:ketchup": {
+  "file": "images/ing-ketchup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Ketchup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ketchup_20160918_181342_(cropped).jpg",
+  "license": "CC BY 4.0",
+  "author": "Kim Holger Kelting",
+  "px": 600,
+  "bytes": 84948
+ },
+ "ingredient:kidney_bean": {
+  "file": "images/ing-kidney_bean.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菜豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Snijboon_peulen_Phaseolus_vulgaris.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rasbak",
+  "px": 600,
+  "bytes": 93545
+ },
+ "ingredient:king_oyster": {
+  "file": "images/ing-king_oyster.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Pleurotus eryngii",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Seta_de_cardo_(Pleurotus_eryngii),_2012-10-03,_DD_01.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Diego Delso",
+  "px": 600,
+  "bytes": 43731
+ },
+ "ingredient:konjac": {
+  "file": "images/ing-konjac.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蒟蒻",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Amorphophallus_konjac_BotGardDresden070219InflorescenceB.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "User:BotBln",
+  "px": 600,
+  "bytes": 99604
+ },
+ "ingredient:lamb_chop": {
+  "file": "images/ing-lamb_chop.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "羊排",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rack_Carr%C3%A9_d%27agneau.JPG",
+  "license": "CC BY-SA 2.5",
+  "author": "User:Stephane8888 (Stephane8888 Wiktionnaire)",
+  "px": 600,
+  "bytes": 67836
+ },
+ "ingredient:lamb_leg": {
+  "file": "images/ing-lamb_leg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Lamb and mutton",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lamb_meat_(1).jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the",
+  "px": 600,
+  "bytes": 118732
+ },
+ "ingredient:lamb_roll": {
+  "file": "images/ing-lamb_roll.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Lamb and mutton",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lamb_meat_(1).jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the",
+  "px": 600,
+  "bytes": 118732
+ },
+ "ingredient:lard": {
+  "file": "images/ing-lard.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豬油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Homelard.jpg",
+  "license": "CC BY 2.5",
+  "author": "No machine-readable author provided. Peter G Werner~commonswiki assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 47365
+ },
+ "ingredient:laver": {
+  "file": "images/ing-laver.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Nori",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Nori.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Alice Wiegand, (Lyzzy)",
+  "px": 600,
+  "bytes": 82335
+ },
+ "ingredient:lean_pork": {
+  "file": "images/ing-lean_pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豬肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Schweinebauch-2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Zenz",
+  "px": 600,
+  "bytes": 46116
+ },
+ "ingredient:lemon": {
+  "file": "images/ing-lemon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "柠檬",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 85407
+ },
+ "ingredient:loofah": {
+  "file": "images/ing-loofah.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "丝瓜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Luffa_aegyptica.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "‘Uncle Carl’ (カールおじさん).",
+  "px": 600,
+  "bytes": 91654
+ },
+ "ingredient:lotus_root": {
+  "file": "images/ing-lotus_root.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蓮藕",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lotus_root.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "FotoosRobin",
+  "px": 600,
+  "bytes": 48335
+ },
+ "ingredient:low_gluten_flour": {
+  "file": "images/ing-low_gluten_flour.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麵粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:All-Purpose_Flour_(4107895947).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Veganbaking.net from USA",
+  "px": 600,
+  "bytes": 38615
+ },
+ "ingredient:maltose": {
+  "file": "images/ing-maltose.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麥芽糖",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Maltose_structure.svg",
+  "license": "Public domain",
+  "author": "Zippanova",
+  "px": 600,
+  "bytes": 23802
+ },
+ "ingredient:mandarin_fish": {
+  "file": "images/ing-mandarin_fish.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鳜鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%83%D1%85%D0%B0_(%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D1%83%D0%BD%D1%8C)_%D1%87%D1%83%D1%87%D0%B5%D0%BB%D0%BE.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Andshel",
+  "px": 600,
+  "bytes": 40911
+ },
+ "ingredient:matsutake": {
+  "file": "images/ing-matsutake.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "松口蘑",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Matsutake.jpg",
+  "license": "CC BY 2.5",
+  "author": "Tomomarusan",
+  "px": 600,
+  "bytes": 104047
+ },
+ "ingredient:mayonnaise": {
+  "file": "images/ing-mayonnaise.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Mayonnaise",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mayonnaise_(1).jpg",
+  "license": "CC BY 2.0",
+  "author": "jules",
+  "px": 600,
+  "bytes": 46768
+ },
+ "ingredient:milk": {
+  "file": "images/ing-milk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "牛乳",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Milk_glass.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Stefan Kühn",
+  "px": 600,
+  "bytes": 29276
+ },
+ "ingredient:milk_powder": {
+  "file": "images/ing-milk_powder.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "奶粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:PowderedMilk.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Lorian",
+  "px": 600,
+  "bytes": 62733
+ },
+ "ingredient:millet": {
+  "file": "images/ing-millet.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "小米",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_Foxtail_millet_02.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "STRONGlk7",
+  "px": 600,
+  "bytes": 74992
+ },
+ "ingredient:morel": {
+  "file": "images/ing-morel.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "羊肚菌",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Morchella_americana_closer.JPG",
+  "license": "CC BY-SA 4.0",
+  "author": "Alan Rockefeller",
+  "px": 600,
+  "bytes": 102931
+ },
+ "ingredient:mozzarella": {
+  "file": "images/ing-mozzarella.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "马苏里拉奶酪",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mozzarella_di_bufala3.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Popo le Chien",
+  "px": 600,
+  "bytes": 53350
+ },
+ "ingredient:mung_bean": {
+  "file": "images/ing-mung_bean.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "绿豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mung_bean_(Vigna_radiata)_Dired_open_Pod_in_Hong_Kong.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Earth100",
+  "px": 600,
+  "bytes": 72506
+ },
+ "ingredient:mussel": {
+  "file": "images/ing-mussel.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "贻贝目",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Perna_viridis_001.jpg",
+  "license": "Public domain",
+  "author": "Jan Delsing",
+  "px": 600,
+  "bytes": 61749
+ },
+ "ingredient:mustard": {
+  "file": "images/ing-mustard.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芥末醬",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Makkaraperunat2.jpg",
+  "license": "Public domain",
+  "author": "User:Argus_fin",
+  "px": 600,
+  "bytes": 77957
+ },
+ "ingredient:mustard_green": {
+  "file": "images/ing-mustard_green.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芥菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Brassica_juncea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-168.jpg",
+  "license": "Public domain",
+  "author": "Walther Otto Müller",
+  "px": 600,
+  "bytes": 66620
+ },
+ "ingredient:napa": {
+  "file": "images/ing-napa.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "大白菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:BrassicaPekinensis.jpg",
+  "license": "CC BY 2.5",
+  "author": "Taken by Fanghong",
+  "px": 600,
+  "bytes": 85859
+ },
+ "ingredient:nori": {
+  "file": "images/ing-nori.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Nori",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Nori.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Alice Wiegand, (Lyzzy)",
+  "px": 600,
+  "bytes": 82335
+ },
+ "ingredient:oats": {
+  "file": "images/ing-oats.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "燕麦",
+  "page_url": "https://commons.wikimedia.org/wiki/File:374_Avena_sativa_L.,_A._orientalis_Schreb.jpg",
+  "license": "Public domain",
+  "author": "Amédée Masclef",
+  "px": 600,
+  "bytes": 92042
+ },
+ "ingredient:octopus": {
+  "file": "images/ing-octopus.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Octopus",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "albert kok",
+  "px": 600,
+  "bytes": 95896
+ },
+ "ingredient:okra": {
+  "file": "images/ing-okra.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "秋葵",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Earth100",
+  "px": 600,
+  "bytes": 78218
+ },
+ "ingredient:olive_oil": {
+  "file": "images/ing-olive_oil.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Olive oil",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Oliven_V1.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Poyraz 72",
+  "px": 600,
+  "bytes": 41529
+ },
+ "ingredient:onion": {
+  "file": "images/ing-onion.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "洋蔥",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Onions_in_Peng_Chau.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 93152
+ },
+ "ingredient:oyster": {
+  "file": "images/ing-oyster.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "牡蠣",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Crassostrea_gigas_p1040848.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "David Monniaux",
+  "px": 600,
+  "bytes": 65027
+ },
+ "ingredient:oyster_mushroom": {
+  "file": "images/ing-oyster_mushroom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "平菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg",
+  "license": "CC BY 3.0",
+  "author": "voir ci-dessous / see below",
+  "px": 600,
+  "bytes": 87518
+ },
+ "ingredient:oyster_sauce": {
+  "file": "images/ing-oyster_sauce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蠔油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:OysterSauce2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Gossipguy",
+  "px": 600,
+  "bytes": 27896
+ },
+ "ingredient:pea": {
+  "file": "images/ing-pea.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豌豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Illustration_Pisum_sativum0.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 75405
+ },
+ "ingredient:pea_shoot": {
+  "file": "images/ing-pea_shoot.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆苗",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dao_miao,_snow_pea_shoots-sprouts.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Susan Slater",
+  "px": 600,
+  "bytes": 118598
+ },
+ "ingredient:peanut": {
+  "file": "images/ing-peanut.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花生",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 103853
+ },
+ "ingredient:peanut_butter": {
+  "file": "images/ing-peanut_butter.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花生酱",
+  "page_url": "https://commons.wikimedia.org/wiki/File:PeanutButter.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "PiccoloNamek at English Wikipedia",
+  "px": 600,
+  "bytes": 74155
+ },
+ "ingredient:peanut_oil": {
+  "file": "images/ing-peanut_oil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花生油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Peanut_oil_bottle.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Adam Engelhart",
+  "px": 600,
+  "bytes": 55420
+ },
+ "ingredient:peppercorn": {
+  "file": "images/ing-peppercorn.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Poivre4.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Didier Descouens",
+  "px": 600,
+  "bytes": 75942
+ },
+ "ingredient:perch": {
+  "file": "images/ing-perch.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鱸形總目",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Perciformes_collage.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "MathKnight",
+  "px": 600,
+  "bytes": 113056
+ },
+ "ingredient:pickled_cabbage": {
+  "file": "images/ing-pickled_cabbage.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Suan cai",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sayur_asin_pickles.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Midori",
+  "px": 600,
+  "bytes": 90791
+ },
+ "ingredient:pickled_pepper": {
+  "file": "images/ing-pickled_pepper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "泡椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pickled_peppers.jpg",
+  "license": "CC BY 2.0",
+  "author": "Ted Sakshaug",
+  "px": 600,
+  "bytes": 44985
+ },
+ "ingredient:pigeon": {
+  "file": "images/ing-pigeon.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Squab",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pigeon_Chicks2_2am.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Mamun2a",
+  "px": 600,
+  "bytes": 85516
+ },
+ "ingredient:pine_nut": {
+  "file": "images/ing-pine_nut.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "松子",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pinoli.jpg",
+  "license": "CC BY-SA 2.0 de",
+  "author": "Quellenangabe und Beleg an burgkirsch(at)web.de erbeten.",
+  "px": 600,
+  "bytes": 38366
+ },
+ "ingredient:pork_belly": {
+  "file": "images/ing-pork_belly.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豬腩",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Schweinebauch-2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Zenz",
+  "px": 600,
+  "bytes": 46116
+ },
+ "ingredient:pork_blood": {
+  "file": "images/ing-pork_blood.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "猪血",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pig_blood_bricks_on_the_market.jpg",
+  "license": "CC BY 2.0",
+  "author": "Franklin Rainier",
+  "px": 600,
+  "bytes": 90526
+ },
+ "ingredient:pork_intestine": {
+  "file": "images/ing-pork_intestine.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豬大腸",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fried_pork_intestines.jpg",
+  "license": "Public domain",
+  "author": "SoHome Jacaranda Lilau",
+  "px": 600,
+  "bytes": 97350
+ },
+ "ingredient:pork_loin": {
+  "file": "images/ing-pork_loin.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Pork loin",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pork_loin_(1027276219).jpg",
+  "license": "CC BY 2.0",
+  "author": "Father.Jack from Coventry, UK",
+  "px": 600,
+  "bytes": 74184
+ },
+ "ingredient:pork_mince": {
+  "file": "images/ing-pork_mince.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豬肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Schweinebauch-2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Zenz",
+  "px": 600,
+  "bytes": 46116
+ },
+ "ingredient:pork_shoulder": {
+  "file": "images/ing-pork_shoulder.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "上肩肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:American_Pork_Cuts.svg",
+  "license": "Public domain",
+  "author": "GameKeeper",
+  "px": 600,
+  "bytes": 36638
+ },
+ "ingredient:pork_skin": {
+  "file": "images/ing-pork_skin.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Pork rind",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cotiche_fresche_crude.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Pufui PcPifpef",
+  "px": 600,
+  "bytes": 81457
+ },
+ "ingredient:potato": {
+  "file": "images/ing-potato.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Potato",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+  "license": "Public domain",
+  "author": "Scott Bauer, USDA ARS",
+  "px": 600,
+  "bytes": 95266
+ },
+ "ingredient:potato_starch": {
+  "file": "images/ing-potato_starch.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "淀粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cornstarch_mixed_with_water.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Picasa author kalaya",
+  "px": 600,
+  "bytes": 64344
+ },
+ "ingredient:prawn": {
+  "file": "images/ing-prawn.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "刀额新对虾",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Yoshiebi1206.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "ふうけ",
+  "px": 600,
+  "bytes": 43709
+ },
+ "ingredient:pumpkin": {
+  "file": "images/ing-pumpkin.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "南瓜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_small_edible_mini_baby_pumpkins.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Ginny from USA",
+  "px": 600,
+  "bytes": 53917
+ },
+ "ingredient:purple_cabbage": {
+  "file": "images/ing-purple_cabbage.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Red cabbage",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea_var_capitata_Rubyball.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "KENPEI",
+  "px": 600,
+  "bytes": 113312
+ },
+ "ingredient:quail": {
+  "file": "images/ing-quail.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "日本鵪鶉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Coturnix_japonica,_Yehliu,_Taiwan_1.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "孫鋒 林 from Taipei, Taiwan",
+  "px": 600,
+  "bytes": 106042
+ },
+ "ingredient:quail_egg": {
+  "file": "images/ing-quail_egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鹌鹑蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Common_Quail_eggs.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "This photography was created by Mariluna. Other photos see here.",
+  "px": 600,
+  "bytes": 71190
+ },
+ "ingredient:rabbit": {
+  "file": "images/ing-rabbit.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "兔肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:9568Marinated_chunks_of_rabbit_in_the_Philippines_05.jpg",
+  "license": "CC0",
+  "author": "JFVelasquez Floro",
+  "px": 600,
+  "bytes": 57202
+ },
+ "ingredient:rape": {
+  "file": "images/ing-rape.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菜心",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Phak_kwangtung905.JPG",
+  "license": "CC BY-SA 4.0",
+  "author": "Xufanc",
+  "px": 600,
+  "bytes": 78846
+ },
+ "ingredient:rapeseed_oil": {
+  "file": "images/ing-rapeseed_oil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菜籽油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Olive_oil_from_Oneglia.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Lemone",
+  "px": 600,
+  "bytes": 53509
+ },
+ "ingredient:razor_clam": {
+  "file": "images/ing-razor_clam.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "竹蟶科",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Solen_marginatus2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Jan Johan ter Poorten; modified by Tom Meijer",
+  "px": 600,
+  "bytes": 40062
+ },
+ "ingredient:red_date": {
+  "file": "images/ing-red_date.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "枣",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ziziphus_zizyphus_foliage.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Júlio Reis",
+  "px": 600,
+  "bytes": 93130
+ },
+ "ingredient:red_pepper": {
+  "file": "images/ing-red_pepper.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bell pepper",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Kham Tran - www.khamtran.com",
+  "px": 600,
+  "bytes": 30694
+ },
+ "ingredient:rice": {
+  "file": "images/ing-rice.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "白米",
+  "page_url": "https://commons.wikimedia.org/wiki/File:JasmineRice.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 42587
+ },
+ "ingredient:rice_cake": {
+  "file": "images/ing-rice_cake.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "年糕",
+  "page_url": "https://commons.wikimedia.org/wiki/File:A_homemade_nian_gao_from_old_woman_in_yuen_long.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 70658
+ },
+ "ingredient:rice_noodle": {
+  "file": "images/ing-rice_noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "米粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Picture_286_w.jpg",
+  "license": "Public domain",
+  "author": "Mathias Braux",
+  "px": 600,
+  "bytes": 50419
+ },
+ "ingredient:rice_noodle_roll": {
+  "file": "images/ing-rice_noodle_roll.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "沙河粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HofanUpClose.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Eileen216 from (optional)",
+  "px": 600,
+  "bytes": 79294
+ },
+ "ingredient:rice_roll": {
+  "file": "images/ing-rice_roll.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "腸粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cha_siu_choeng.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 70974
+ },
+ "ingredient:rice_wine": {
+  "file": "images/ing-rice_wine.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "料酒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Wangzhihe_Liaojiu_on_shelf_(20250912180907).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "N509FZ",
+  "px": 600,
+  "bytes": 103937
+ },
+ "ingredient:river_shrimp": {
+  "file": "images/ing-river_shrimp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "日本沼虾",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Macrobrachium_nipponense_by_OpenCage.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 98513
+ },
+ "ingredient:rock_sugar": {
+  "file": "images/ing-rock_sugar.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "冰糖",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Brauner_Kandiszucker.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Alice Wiegand",
+  "px": 600,
+  "bytes": 79065
+ },
+ "ingredient:romaine": {
+  "file": "images/ing-romaine.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "莴苣",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kropsla_herfst.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rasbak",
+  "px": 600,
+  "bytes": 110725
+ },
+ "ingredient:sago": {
+  "file": "images/ing-sago.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "西米",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sago1.jpg",
+  "license": "CC BY 2.5",
+  "author": "Kguirnela at English Wikipedia",
+  "px": 600,
+  "bytes": 95462
+ },
+ "ingredient:salmon": {
+  "file": "images/ing-salmon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鮭魚",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
+  "license": "Public domain",
+  "author": "Knepp, Timothy",
+  "px": 600,
+  "bytes": 21418
+ },
+ "ingredient:salt": {
+  "file": "images/ing-salt.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "食盐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Table_salt_with_salt_shaker_V1.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Poyraz 72",
+  "px": 600,
+  "bytes": 32353
+ },
+ "ingredient:salted_egg": {
+  "file": "images/ing-salted_egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鹹鴨蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Baki_telur_bebek_asin.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Lalalalabpi",
+  "px": 600,
+  "bytes": 78336
+ },
+ "ingredient:salted_fish": {
+  "file": "images/ing-salted_fish.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鹹魚",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Salted_fish_in_Tai_O.jpg",
+  "license": "CC0",
+  "author": "方畢可",
+  "px": 400,
+  "bytes": 81370
+ },
+ "ingredient:sausage": {
+  "file": "images/ing-sausage.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "香腸",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sausage_making-H-5-edited2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "László Szalai (Beyond silence)",
+  "px": 600,
+  "bytes": 68526
+ },
+ "ingredient:scallion": {
+  "file": "images/ing-scallion.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Scallion",
+  "page_url": "https://commons.wikimedia.org/wiki/File:CSA-Red-Spring-Onions.jpg",
+  "license": "Public domain",
+  "author": "Evan-Amos",
+  "px": 600,
+  "bytes": 52306
+ },
+ "ingredient:scallop": {
+  "file": "images/ing-scallop.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "扇贝",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pectinidae.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "No machine-readable author provided. Weitbrecht assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 86586
+ },
+ "ingredient:sea_cucumber": {
+  "file": "images/ing-sea_cucumber.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "海參",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Actinopyga_echinites1.jpg",
+  "license": "CC BY 3.0",
+  "author": "François Michonneau",
+  "px": 600,
+  "bytes": 39701
+ },
+ "ingredient:seasoned_soy": {
+  "file": "images/ing-seasoned_soy.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酱油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:20250723_Renchang_Jiangyuan.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Yumeto",
+  "px": 600,
+  "bytes": 88605
+ },
+ "ingredient:seitan": {
+  "file": "images/ing-seitan.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "面筋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E6%89%8B%E6%92%95%E9%9D%A2%E7%AD%8B.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "NAN LIU",
+  "px": 600,
+  "bytes": 83593
+ },
+ "ingredient:sesame": {
+  "file": "images/ing-sesame.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芝麻",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 76884
+ },
+ "ingredient:sesame_oil": {
+  "file": "images/ing-sesame_oil.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Sesame oil",
+  "page_url": "https://commons.wikimedia.org/wiki/File:SesameSeedOil.png",
+  "license": "Public domain",
+  "author": "Itineranttrader",
+  "px": 600,
+  "bytes": 21390
+ },
+ "ingredient:sesame_paste": {
+  "file": "images/ing-sesame_paste.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芝麻酱",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tahina.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Gilabrand",
+  "px": 600,
+  "bytes": 62368
+ },
+ "ingredient:shiitake": {
+  "file": "images/ing-shiitake.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "香菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg",
+  "license": "CC BY 2.0",
+  "author": "frankenstoen from Portland, Oregon",
+  "px": 600,
+  "bytes": 71290
+ },
+ "ingredient:shrimp": {
+  "file": "images/ing-shrimp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蝦仁",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Garnelen_im_Verkauf_(fcm).jpg",
+  "license": "Public domain",
+  "author": "Frank C. Müller",
+  "px": 600,
+  "bytes": 81040
+ },
+ "ingredient:shrimp_paste": {
+  "file": "images/ing-shrimp_paste.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蝦醬",
+  "page_url": "https://commons.wikimedia.org/wiki/File:A_square_of_shrimp_paste_from_Hung_Kee_store.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 65603
+ },
+ "ingredient:sichuan_pepper_oil": {
+  "file": "images/ing-sichuan_pepper_oil.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "花椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Poivre4.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Didier Descouens",
+  "px": 600,
+  "bytes": 75942
+ },
+ "ingredient:silken_tofu": {
+  "file": "images/ing-silken_tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆腐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Billyfoodtofu1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 53685
+ },
+ "ingredient:silver_carp": {
+  "file": "images/ing-silver_carp.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鲢鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hypophthalmichthys_molitrix_adult.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "user:Tdk",
+  "px": 600,
+  "bytes": 95283
+ },
+ "ingredient:snakehead": {
+  "file": "images/ing-snakehead.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "烏鱧",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Channa_argus_distribution.png",
+  "license": "Public domain",
+  "author": "Circular 1251",
+  "px": 600,
+  "bytes": 93640
+ },
+ "ingredient:soup_stock": {
+  "file": "images/ing-soup_stock.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "高湯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Making_stock_for_pho_bo.jpg",
+  "license": "CC BY 2.0",
+  "author": "Blue Lotus",
+  "px": 600,
+  "bytes": 93254
+ },
+ "ingredient:soy_milk": {
+  "file": "images/ing-soy_milk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆浆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Soy_milk_(2).jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "LinasD (this version uploaded by SlimVirgin)",
+  "px": 600,
+  "bytes": 54564
+ },
+ "ingredient:soy_sauce": {
+  "file": "images/ing-soy_sauce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酱油",
+  "page_url": "https://commons.wikimedia.org/wiki/File:20250723_Renchang_Jiangyuan.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Yumeto",
+  "px": 600,
+  "bytes": 88605
+ },
+ "ingredient:soy_sprout": {
+  "file": "images/ing-soy_sprout.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Soybean sprout",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kongnamul_(soybean_sprout)_2.jpg",
+  "license": "CC BY 2.0",
+  "author": "Hyeon-Jeong Suk",
+  "px": 600,
+  "bytes": 119917
+ },
+ "ingredient:soybean": {
+  "file": "images/ing-soybean.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "大豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 51605
+ },
+ "ingredient:spam": {
+  "file": "images/ing-spam.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "午餐肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sliced_Spam.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "BrokenSphere",
+  "px": 600,
+  "bytes": 94042
+ },
+ "ingredient:spinach": {
+  "file": "images/ing-spinach.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "菠菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spinacia_oleracea_14.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Krish Dulal",
+  "px": 600,
+  "bytes": 89327
+ },
+ "ingredient:squid": {
+  "file": "images/ing-squid.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "魷",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Loligo_vulgaris.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Hans Hillewaert",
+  "px": 600,
+  "bytes": 58421
+ },
+ "ingredient:star_anise": {
+  "file": "images/ing-star_anise.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "八角",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dried_Star_Anise_Fruit_Seeds.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sanjay Acharya",
+  "px": 600,
+  "bytes": 54644
+ },
+ "ingredient:starch": {
+  "file": "images/ing-starch.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "淀粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cornstarch_mixed_with_water.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Picasa author kalaya",
+  "px": 600,
+  "bytes": 64344
+ },
+ "ingredient:steamed_bun": {
+  "file": "images/ing-steamed_bun.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "馒头",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%96%E0%B8%A7.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Aumrino970",
+  "px": 600,
+  "bytes": 47467
+ },
+ "ingredient:straw_mushroom": {
+  "file": "images/ing-straw_mushroom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "草菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:1797_Volvariella_volvacea_Sowerby.jpg",
+  "license": "Public domain",
+  "author": "Coloured Figures of English Fungi or Mushrooms - t. 1.jpg: James Sowerby derivative work: Natr (talk)",
+  "px": 600,
+  "bytes": 57154
+ },
+ "ingredient:sugar": {
+  "file": "images/ing-sugar.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "白糖",
+  "page_url": "https://commons.wikimedia.org/wiki/File:W%C3%BCrfelzucker_--_2018_--_3564.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Dietmar Rabich",
+  "px": 600,
+  "bytes": 58248
+ },
+ "ingredient:sweet_bean_sauce": {
+  "file": "images/ing-sweet_bean_sauce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "甜面酱",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sweetnoodlesauce.jpg",
+  "license": "CC BY 2.0",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 81345
+ },
+ "ingredient:sweet_osmanthus": {
+  "file": "images/ing-sweet_osmanthus.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "桂花",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Osmanthus_heterophyllus-hangzhou.JPG",
+  "license": "CC BY 1.0",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 93509
+ },
+ "ingredient:sweet_potato": {
+  "file": "images/ing-sweet_potato.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "番薯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatasL_ja01.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "miya (talk)",
+  "px": 600,
+  "bytes": 93503
+ },
+ "ingredient:sweet_potato_noodle": {
+  "file": "images/ing-sweet_potato_noodle.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Glass noodles",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cooked_dangmyeon.jpg",
+  "license": "CC BY 4.0",
+  "author": "토리랑",
+  "px": 600,
+  "bytes": 73129
+ },
+ "ingredient:tangyuan": {
+  "file": "images/ing-tangyuan.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "湯圓",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tangyuan-small.JPG",
+  "license": "Public domain",
+  "author": "Wu Xiao",
+  "px": 600,
+  "bytes": 38752
+ },
+ "ingredient:taro": {
+  "file": "images/ing-taro.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "芋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:TaroAKL.jpg",
+  "license": "Public domain",
+  "author": "Kahuroa",
+  "px": 600,
+  "bytes": 97142
+ },
+ "ingredient:tea_tree_mushroom": {
+  "file": "images/ing-tea_tree_mushroom.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "茶树菇",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Agrocybe_aegerita.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Ramiro Barreiro",
+  "px": 600,
+  "bytes": 84219
+ },
+ "ingredient:thousand_tofu": {
+  "file": "images/ing-thousand_tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "ingredient:tilapia": {
+  "file": "images/ing-tilapia.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "罗非鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Oreochromis_mossambica.jpg",
+  "license": "Public domain",
+  "author": "Nilesh Heda",
+  "px": 600,
+  "bytes": 26363
+ },
+ "ingredient:tofu": {
+  "file": "images/ing-tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆腐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Billyfoodtofu1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 53685
+ },
+ "ingredient:tofu_pudding": {
+  "file": "images/ing-tofu_pudding.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆花",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Douhua(%E8%B1%86%E8%8A%B1).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Hiroooooo",
+  "px": 600,
+  "bytes": 64864
+ },
+ "ingredient:tofu_shred": {
+  "file": "images/ing-tofu_shred.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "ingredient:tomato": {
+  "file": "images/ing-tomato.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "番茄",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Softeis",
+  "px": 600,
+  "bytes": 40400
+ },
+ "ingredient:toon": {
+  "file": "images/ing-toon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "香椿",
+  "page_url": "https://commons.wikimedia.org/wiki/File:ToonaSinensis.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Fanghong",
+  "px": 600,
+  "bytes": 90414
+ },
+ "ingredient:veg_chicken": {
+  "file": "images/ing-veg_chicken.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "腐皮",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tofu_skin.png",
+  "license": "CC BY 2.0",
+  "author": "Andrea Nguyen",
+  "px": 600,
+  "bytes": 53679
+ },
+ "ingredient:vermicelli": {
+  "file": "images/ing-vermicelli.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "粉丝",
+  "page_url": "https://commons.wikimedia.org/wiki/File:CookedCellophaneNoodles.jpg",
+  "license": "Public domain",
+  "author": "Benjwong",
+  "px": 600,
+  "bytes": 71320
+ },
+ "ingredient:vinegar": {
+  "file": "images/ing-vinegar.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "醋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Fairwood_Vinegar_Red.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "No machine-readable author provided. GS417~commonswiki assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 85074
+ },
+ "ingredient:water_chestnut": {
+  "file": "images/ing-water_chestnut.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "荸荠",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Eleocharis_dulcis_Blanco1.15.jpg",
+  "license": "Public domain",
+  "author": "Francisco Manuel Blanco (O.S.A.)",
+  "px": 600,
+  "bytes": 29644
+ },
+ "ingredient:water_spinach": {
+  "file": "images/ing-water_spinach.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蕹菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:N_Ipoa_D1600.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Eric Guinther",
+  "px": 600,
+  "bytes": 101891
+ },
+ "ingredient:wheat_noodle": {
+  "file": "images/ing-wheat_noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "面条",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chinese_noodle_soup_with_octopus_ball_and_lamb_meat_with_pork_belly_and_fu_jok.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 83605
+ },
+ "ingredient:white_pepper": {
+  "file": "images/ing-white_pepper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "胡椒",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
+  "license": "Public domain",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "px": 600,
+  "bytes": 74542
+ },
+ "ingredient:white_vinegar": {
+  "file": "images/ing-white_vinegar.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "醋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:HK_Fairwood_Vinegar_Red.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "No machine-readable author provided. GS417~commonswiki assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 85074
+ },
+ "ingredient:winter_melon": {
+  "file": "images/ing-winter_melon.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "冬瓜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%86%AC%E7%93%9C%E6%9E%9C%E5%AF%A6.jpg",
+  "license": "CC0",
+  "author": "氏子",
+  "px": 600,
+  "bytes": 88683
+ },
+ "ingredient:wonton_wrapper": {
+  "file": "images/ing-wonton_wrapper.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "馄饨",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pork_Steamed_Wontons.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sumit Surai",
+  "px": 600,
+  "bytes": 60159
+ },
+ "ingredient:wood_ear": {
+  "file": "images/ing-wood_ear.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Wood ear",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Wood_ear_mushroom_-_a_ear.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "트리오구",
+  "px": 600,
+  "bytes": 59799
+ },
+ "ingredient:yam": {
+  "file": "images/ing-yam.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "山藥",
+  "page_url": "https://commons.wikimedia.org/wiki/File:YamsatBrixtonMarket.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 82415
+ },
+ "ingredient:yeast": {
+  "file": "images/ing-yeast.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酵母",
+  "page_url": "https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg",
+  "license": "Public domain",
+  "author": "Masur",
+  "px": 600,
+  "bytes": 55240
+ },
+ "ingredient:yellow_bean_sauce": {
+  "file": "images/ing-yellow_bean_sauce.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "黄酱",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Haitian_fermented_bean_paste_on_a_shelf.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "維基小霸王",
+  "px": 600,
+  "bytes": 105343
+ },
+ "ingredient:yellow_croaker": {
+  "file": "images/ing-yellow_croaker.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Larimichthys",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E9%BB%84%E9%B1%BC.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "思源如宁",
+  "px": 600,
+  "bytes": 95102
+ },
+ "ingredient:yogurt": {
+  "file": "images/ing-yogurt.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酸奶",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Turkish_strained_yogurt.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 67350
+ },
+ "ingredient:youtiao": {
+  "file": "images/ing-youtiao.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "油条",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Youtiao.jpg",
+  "license": "CC0",
+  "author": "Popo le Chien",
+  "px": 600,
+  "bytes": 67259
+ },
+ "ingredient:yuba": {
+  "file": "images/ing-yuba.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "腐竹",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E8%85%90%E7%AB%B9_Soy_sparrowgrass_%D0%A1%D0%BE%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D0%BF%D0%B0%D1%80%D0%B6%D0%B0_(10085334385).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Nikolaj Potanin from Russia",
+  "px": 600,
+  "bytes": 109660
+ },
+ "ingredient:zhacai": {
+  "file": "images/ing-zhacai.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "榨菜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:TwoHeadsZhacai.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Sjschen",
+  "px": 600,
+  "bytes": 67205
+ },
+ "ingredient:zucchini": {
+  "file": "images/ing-zucchini.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "西葫芦",
+  "page_url": "https://commons.wikimedia.org/wiki/File:CSA-Striped-Zucchini.jpg",
+  "license": "Public domain",
+  "author": "Evan-Amos",
+  "px": 600,
+  "bytes": 41431
+ },
+ "recipe:ants-tree": {
+  "file": "images/recipe-ants-tree.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "螞蟻上樹",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E8%9A%82%E8%9A%81%E4%B8%8A%E6%A0%9101.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Дмитрий Журавлев (dejur)",
+  "px": 600,
+  "bytes": 74853
+ },
+ "recipe:beef-chow-fun": {
+  "file": "images/recipe-beef-chow-fun.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef chow fun",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Beefchowfoon.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "stu_spivack",
+  "px": 600,
+  "bytes": 86489
+ },
+ "recipe:beer-duck": {
+  "file": "images/recipe-beer-duck.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Duck as food",
+  "page_url": "https://commons.wikimedia.org/wiki/File:And_(24559569447).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "cyclonebill from Copenhagen, Denmark",
+  "px": 600,
+  "bytes": 52413
+ },
+ "recipe:bitter-melon-egg": {
+  "file": "images/recipe-bitter-melon-egg.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Bittergourd.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bittergourd.jpg",
+  "license": "CC BY 3.0",
+  "author": "Challiyan at Malayalam Wikipedia",
+  "px": 600,
+  "bytes": 33878
+ },
+ "recipe:black-pepper-beef": {
+  "file": "images/recipe-black-pepper-beef.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "Michael C. Berch, aka MCB at en.wikipedia",
+  "px": 600,
+  "bytes": 53175
+ },
+ "recipe:boiled-beef-sichuan": {
+  "file": "images/recipe-boiled-beef-sichuan.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "水煮肉片",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shuizhuniurou.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Liu Nan",
+  "px": 600,
+  "bytes": 100531
+ },
+ "recipe:borscht": {
+  "file": "images/recipe-borscht.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "罗宋汤",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Borscht_served.jpg",
+  "license": "CC BY 2.0",
+  "author": "liz west from Boxborough, MA",
+  "px": 600,
+  "bytes": 68010
+ },
+ "recipe:braised-beef-shank": {
+  "file": "images/recipe-braised-beef-shank.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef shank",
+  "page_url": "https://commons.wikimedia.org/wiki/File:BeefCutShank.png",
+  "license": "Public domain",
+  "author": "JoeSmack at en.wikipedia",
+  "px": 600,
+  "bytes": 30392
+ },
+ "recipe:braised-chicken-feet": {
+  "file": "images/recipe-braised-chicken-feet.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chicken feet",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_feet.jpg",
+  "license": "Public domain",
+  "author": "User:Anna Frodesiak",
+  "px": 600,
+  "bytes": 112508
+ },
+ "recipe:braised-eggplant": {
+  "file": "images/recipe-braised-eggplant.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "红烧茄子-云南昆明.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:红烧茄子-云南昆明.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "tak.wing",
+  "px": 600,
+  "bytes": 68708
+ },
+ "recipe:braised-pork": {
+  "file": "images/recipe-braised-pork.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Red braised pork belly",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E7%B4%85%E7%87%92%E8%82%89_Braised_pork_in_brown_sauce.jpg",
+  "license": "CC BY 2.0",
+  "author": "FotoosVanRobin Photostream",
+  "px": 600,
+  "bytes": 61976
+ },
+ "recipe:braised-pork-rice": {
+  "file": "images/recipe-braised-pork-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Ló͘-bah-pn̄g",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lurou_fan(Taiwanese_cuisine).jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "Jzest",
+  "px": 600,
+  "bytes": 116315
+ },
+ "recipe:braised-spare-ribs": {
+  "file": "images/recipe-braised-spare-ribs.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Spare ribs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spareribs_20160506_182617113.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Edo de Roo",
+  "px": 600,
+  "bytes": 64982
+ },
+ "recipe:candied-sweet-potato": {
+  "file": "images/recipe-candied-sweet-potato.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "拔丝地瓜.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:拔丝地瓜.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "董辰兴",
+  "px": 600,
+  "bytes": 90665
+ },
+ "recipe:celery-lily": {
+  "file": "images/recipe-celery-lily.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Celery",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Celery_1.jpg",
+  "license": "Public domain",
+  "author": "Lombroso",
+  "px": 600,
+  "bytes": 121169
+ },
+ "recipe:celery-tofu": {
+  "file": "images/recipe-celery-tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "recipe:century-egg-congee": {
+  "file": "images/recipe-century-egg-congee.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "皮蛋瘦肉粥",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pork_preserved_duck_egg_congee.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Pokman817",
+  "px": 600,
+  "bytes": 71582
+ },
+ "recipe:century-egg-tofu": {
+  "file": "images/recipe-century-egg-tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Century egg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Century_egg_sliced_open.jpeg",
+  "license": "CC BY-SA 3.0",
+  "author": "en:User:Kowloonese",
+  "px": 600,
+  "bytes": 50253
+ },
+ "recipe:chestnut-chicken": {
+  "file": "images/recipe-chestnut-chicken.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Chicken with chestnuts and pineapple, avocado, mashed potato, and baby kale - Massachusetts.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_with_chestnuts_and_pineapple,_avocado,_mashed_potato,_and_baby_kale_-_Massachusetts.jpg",
+  "license": "CC0",
+  "author": "Daderot",
+  "px": 600,
+  "bytes": 101868
+ },
+ "recipe:chicken-mushroom-stew": {
+  "file": "images/recipe-chicken-mushroom-stew.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Chicken stew (Turkey).jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_stew_(Turkey).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "E4024",
+  "px": 600,
+  "bytes": 84938
+ },
+ "recipe:chive-egg": {
+  "file": "images/recipe-chive-egg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Scrambled eggs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scrambed_eggs.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 80734
+ },
+ "recipe:chive-pocket": {
+  "file": "images/recipe-chive-pocket.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "韭菜盒子",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Jiucai_Hezi_at_Dongsi_Minfang_Restaurant,_Chongwenmen_(20220215114852).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "N509FZ",
+  "px": 600,
+  "bytes": 47474
+ },
+ "recipe:chive-sprout": {
+  "file": "images/recipe-chive-sprout.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Mung bean sprout",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mung_bean_sprouts.jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "author": "국립국어원",
+  "px": 600,
+  "bytes": 47823
+ },
+ "recipe:chongqing-noodle": {
+  "file": "images/recipe-chongqing-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "小面",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chongqing_Xiaomian_with_fried_eggs.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "王桁霽",
+  "px": 600,
+  "bytes": 102011
+ },
+ "recipe:chopped-chili-fish-head": {
+  "file": "images/recipe-chopped-chili-fish-head.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "剁椒鱼头",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Chili_(20150726122046).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "N509FZ",
+  "px": 600,
+  "bytes": 104248
+ },
+ "recipe:chopped-chili-tofu": {
+  "file": "images/recipe-chopped-chili-tofu.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tofu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "DryPot",
+  "px": 600,
+  "bytes": 85242
+ },
+ "recipe:claypot-rice": {
+  "file": "images/recipe-claypot-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Claypot rice",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Banej",
+  "px": 600,
+  "bytes": 102602
+ },
+ "recipe:cola-chicken-wings": {
+  "file": "images/recipe-cola-chicken-wings.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "可乐鸡翅",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Wuzhiya",
+  "px": 600,
+  "bytes": 104138
+ },
+ "recipe:cold-chicken-shreds": {
+  "file": "images/recipe-cold-chicken-shreds.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Bang bang chicken",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bon_bon_chicken_with_sauce.jpg",
+  "license": "CC BY 2.0",
+  "author": "rick",
+  "px": 600,
+  "bytes": 89454
+ },
+ "recipe:cold-enoki": {
+  "file": "images/recipe-cold-enoki.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Flammulina filiformis",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "frankenstoen",
+  "px": 600,
+  "bytes": 63302
+ },
+ "recipe:cold-kelp": {
+  "file": "images/recipe-cold-kelp.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Kelp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kelp_In_Freycinet_Tasmania.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Bjørn Christian Tørrissen",
+  "px": 600,
+  "bytes": 114354
+ },
+ "recipe:cold-okra": {
+  "file": "images/recipe-cold-okra.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Okra",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Earth100",
+  "px": 600,
+  "bytes": 78218
+ },
+ "recipe:cold-wood-ear": {
+  "file": "images/recipe-cold-wood-ear.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Wood ear",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Wood_ear_mushroom_-_a_ear.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "트리오구",
+  "px": 600,
+  "bytes": 59799
+ },
+ "recipe:couple-lung-slices": {
+  "file": "images/recipe-couple-lung-slices.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "夫妻肺片",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fuqi_Fei_Pian.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "No machine-readable author provided. Dice~commonswiki assumed (based on copyright claims).",
+  "px": 600,
+  "bytes": 94460
+ },
+ "recipe:crucian-tofu-soup": {
+  "file": "images/recipe-crucian-tofu-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Crucian carp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:CarassiusCarassius8.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Viridiflavus",
+  "px": 600,
+  "bytes": 77860
+ },
+ "recipe:cumin-lamb": {
+  "file": "images/recipe-cumin-lamb.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "孜然羊肉.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%AD%9C%E7%84%B6%E7%BE%8A%E8%82%89.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "윤성은01",
+  "px": 600,
+  "bytes": 95488
+ },
+ "recipe:curry-chicken-rice": {
+  "file": "images/recipe-curry-chicken-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Japanese curry",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg",
+  "license": "CC0",
+  "author": "Ocdp",
+  "px": 600,
+  "bytes": 75424
+ },
+ "recipe:dandan-noodle": {
+  "file": "images/recipe-dandan-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "担担面",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dan-dan_noodles,_Shanghai.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Steven G. Johnson",
+  "px": 600,
+  "bytes": 62879
+ },
+ "recipe:disanxian": {
+  "file": "images/recipe-disanxian.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "地三鲜",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Disanxian.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Riverhugger",
+  "px": 600,
+  "bytes": 100073
+ },
+ "recipe:dongpo-pork": {
+  "file": "images/recipe-dongpo-pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "东坡肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:BCfood12.JPG",
+  "license": "Public domain",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 51452
+ },
+ "recipe:double-skin-milk": {
+  "file": "images/recipe-double-skin-milk.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "双皮奶",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shuangpi_Nai.jpeg",
+  "license": "CC BY-SA 3.0",
+  "author": "Pokman817",
+  "px": 600,
+  "bytes": 46342
+ },
+ "recipe:dough-drop-soup": {
+  "file": "images/recipe-dough-drop-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tomato and egg soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tomato_and_egg_soup.jpg",
+  "license": "CC BY 3.0",
+  "author": "NNU-10-HanRongrong",
+  "px": 600,
+  "bytes": 59089
+ },
+ "recipe:dry-fried-green-beans": {
+  "file": "images/recipe-dry-fried-green-beans.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Green bean",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Heaps_of_beans.jpg",
+  "license": "GFDL 1.2",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 116783
+ },
+ "recipe:dry-pot-cauliflower": {
+  "file": "images/recipe-dry-pot-cauliflower.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cauliflower",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Coyau",
+  "px": 600,
+  "bytes": 42057
+ },
+ "recipe:dry-pot-tea-tree-mushroom": {
+  "file": "images/recipe-dry-pot-tea-tree-mushroom.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cyclocybe aegerita",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Agrocybe_aegerita.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Ramiro Barreiro",
+  "px": 600,
+  "bytes": 84219
+ },
+ "recipe:egg-fried-rice": {
+  "file": "images/recipe-egg-fried-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Fried rice",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Fried_rice_with_seafood,_Thai_fried_rice.jpg",
+  "license": "CC BY 4.0",
+  "author": "Vyacheslav Argenberg",
+  "px": 600,
+  "bytes": 64985
+ },
+ "recipe:farmhouse-pork": {
+  "file": "images/recipe-farmhouse-pork.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Twice-cooked pork",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Twice_cooked_pork,_Jia_Yan,_5_rue_Humblot,_Paris_003.jpg",
+  "license": "CC BY 2.0",
+  "author": "Guilhem Vellut from Paris, France",
+  "px": 600,
+  "bytes": 74488
+ },
+ "recipe:garlic-broccoli": {
+  "file": "images/recipe-garlic-broccoli.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Broccoli and cross section edit.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Broccoli_and_cross_section_edit.jpg",
+  "license": "GFDL 1.2",
+  "author": "Fir0002",
+  "px": 600,
+  "bytes": 59677
+ },
+ "recipe:garlic-ribs": {
+  "file": "images/recipe-garlic-ribs.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Spare ribs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spareribs_20160506_182617113.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Edo de Roo",
+  "px": 600,
+  "bytes": 64982
+ },
+ "recipe:garlic-sprout-sausage": {
+  "file": "images/recipe-garlic-sprout-sausage.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chinese sausage",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chinese_dried_sausages_in_Hong_Kong.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Peachyeung316",
+  "px": 600,
+  "bytes": 99765
+ },
+ "recipe:garlic-water-spinach": {
+  "file": "images/recipe-garlic-water-spinach.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Ipomoea aquatica",
+  "page_url": "https://commons.wikimedia.org/wiki/File:N_Ipoa_D1600.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Eric Guinther",
+  "px": 600,
+  "bytes": 101891
+ },
+ "recipe:hand-torn-cabbage": {
+  "file": "images/recipe-hand-torn-cabbage.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cabbage",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cabbage_and_cross_section_on_white.jpg",
+  "license": "GFDL 1.2",
+  "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+  "px": 600,
+  "bytes": 45520
+ },
+ "recipe:hot-sour-soup": {
+  "file": "images/recipe-hot-sour-soup.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酸辣湯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ping_SJ_hot_%26_sour_soup.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "BrokenSphere",
+  "px": 600,
+  "bytes": 76937
+ },
+ "recipe:hulatang": {
+  "file": "images/recipe-hulatang.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "胡辣汤",
+  "page_url": "https://commons.wikimedia.org/wiki/File:20240826_Hulatang_in_Xiaoyao_Town.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Windmemories",
+  "px": 600,
+  "bytes": 99813
+ },
+ "recipe:jingjiang-pork": {
+  "file": "images/recipe-jingjiang-pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "京酱肉丝",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Jing_Jiang_Rou_Si_01.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "gigijin",
+  "px": 600,
+  "bytes": 95625
+ },
+ "recipe:kelp-tofu-soup": {
+  "file": "images/recipe-kelp-tofu-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Kelp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kelp_In_Freycinet_Tasmania.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Bjørn Christian Tørrissen",
+  "px": 600,
+  "bytes": 114354
+ },
+ "recipe:kungpao-chicken": {
+  "file": "images/recipe-kungpao-chicken.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "宫保鸡丁",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kung-pao-shanghai.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Steven G. Johnson",
+  "px": 600,
+  "bytes": 60743
+ },
+ "recipe:langya-potato": {
+  "file": "images/recipe-langya-potato.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "狼牙土豆",
+  "page_url": "https://commons.wikimedia.org/wiki/File:WechatIMG608.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Rheaxx666",
+  "px": 600,
+  "bytes": 107989
+ },
+ "recipe:lanzhou-beef-noodle": {
+  "file": "images/recipe-lanzhou-beef-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "兰州牛肉面",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E8%98%AD%E5%B7%9E%E7%89%9B%E8%82%89%E6%8B%89%E9%BA%BA.jpg",
+  "license": "CC0",
+  "author": "Super koikeyuriko",
+  "px": 600,
+  "bytes": 75018
+ },
+ "recipe:laver-egg-soup": {
+  "file": "images/recipe-laver-egg-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Egg drop soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:5-Minute_Egg_Drop_Soup-5_(32079790121).jpg",
+  "license": "CC BY 2.0",
+  "author": "Sharon Chen from Austin, United States",
+  "px": 600,
+  "bytes": 70711
+ },
+ "recipe:loofah-egg": {
+  "file": "images/recipe-loofah-egg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Luffa",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Luffa_aegyptica.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "‘Uncle Carl’ (カールおじさん).",
+  "px": 600,
+  "bytes": 91654
+ },
+ "recipe:loofah-egg-soup": {
+  "file": "images/recipe-loofah-egg-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Egg drop soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:5-Minute_Egg_Drop_Soup-5_(32079790121).jpg",
+  "license": "CC BY 2.0",
+  "author": "Sharon Chen from Austin, United States",
+  "px": 600,
+  "bytes": 70711
+ },
+ "recipe:lotus-stirfry": {
+  "file": "images/recipe-lotus-stirfry.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Nelumbo nucifera",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "T.Voekler",
+  "px": 600,
+  "bytes": 82234
+ },
+ "recipe:lvdagun": {
+  "file": "images/recipe-lvdagun.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "驴打滚",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lyu_Da_Gun.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "ZhengZhou",
+  "px": 600,
+  "bytes": 87975
+ },
+ "recipe:maoxuewang": {
+  "file": "images/recipe-maoxuewang.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "毛血旺",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Mao_Xuewang_1.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Alpha",
+  "px": 600,
+  "bytes": 86751
+ },
+ "recipe:mapo-tofu": {
+  "file": "images/recipe-mapo-tofu.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "麻婆豆腐",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Billyfoodmabodofu3.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 59067
+ },
+ "recipe:meicai-meat-pie": {
+  "file": "images/recipe-meicai-meat-pie.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Meigan cai",
+  "page_url": "https://commons.wikimedia.org/wiki/File:MeiganCaiBundle.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Sjschen",
+  "px": 600,
+  "bytes": 70865
+ },
+ "recipe:minced-pork-eggplant": {
+  "file": "images/recipe-minced-pork-eggplant.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Japanese White Eggplant.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Japanese_White_Eggplant.jpg",
+  "license": "CC BY 4.0",
+  "author": "Versions111",
+  "px": 600,
+  "bytes": 72517
+ },
+ "recipe:mung-bean-soup": {
+  "file": "images/recipe-mung-bean-soup.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "绿豆汤",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Food_%E7%B6%A0%E8%B1%86%E6%B9%AF,_%E5%86%B0%E7%B3%96%E9%8A%80%E8%80%B3,_%E9%98%BF%E7%8C%9C%E5%AC%A4,_%E7%94%9C%E6%B9%AF%E9%B9%B9%E5%9C%93,_%E5%8F%B0%E5%8C%97_(17296663148).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "bryan... from Taipei, Taiwan",
+  "px": 600,
+  "bytes": 59800
+ },
+ "recipe:mushroom-soup": {
+  "file": "images/recipe-mushroom-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Cream of mushroom soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cream_mushroom_soup_3.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Redeemer|Vodesnet",
+  "px": 600,
+  "bytes": 66879
+ },
+ "recipe:mushu-pork": {
+  "file": "images/recipe-mushu-pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "木犀肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:American-style_Moo_Shu_Pork_with_pancakes,_ready_to_wrap.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Swiss Frank",
+  "px": 600,
+  "bytes": 108397
+ },
+ "recipe:oil-splashed-noodle": {
+  "file": "images/recipe-oil-splashed-noodle.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Biangbiang noodles",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Biang_Biang_Mian.jpg",
+  "license": "CC BY 2.0",
+  "author": "Gary Soup",
+  "px": 600,
+  "bytes": 83208
+ },
+ "recipe:old-vinegar-peanut": {
+  "file": "images/recipe-old-vinegar-peanut.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Peanuts (Arachis hypogaea) - in shell, shell cracked open, shelled, peeled.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Peanuts_(Arachis_hypogaea)_-_in_shell,_shell_cracked_open,_shelled,_peeled.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Ivar Leidus",
+  "px": 600,
+  "bytes": 44186
+ },
+ "recipe:onion-egg": {
+  "file": "images/recipe-onion-egg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Scrambled eggs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scrambed_eggs.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 80734
+ },
+ "recipe:oxtail-tomato-soup": {
+  "file": "images/recipe-oxtail-tomato-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Oxtail soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Oxtail_soup_with_sliced_bread-93321.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Raimond Spekking",
+  "px": 600,
+  "bytes": 40666
+ },
+ "recipe:oyster-lettuce": {
+  "file": "images/recipe-oyster-lettuce.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Romaine lettuce.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Romaine_lettuce.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rainer Zenz",
+  "px": 600,
+  "bytes": 78372
+ },
+ "recipe:pan-fried-bun": {
+  "file": "images/recipe-pan-fried-bun.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "生煎馒头",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shengjianbao_by_buncheduptv_in_San_Mateo,_CA.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "buncheduptv from Shanghainese restaurant Little Shanghai Restaurant in San Mateo, California",
+  "px": 600,
+  "bytes": 46775
+ },
+ "recipe:pearl-meatball": {
+  "file": "images/recipe-pearl-meatball.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "糯米丸子",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pearl_Meatballs_with_Sticky_Rice.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Zheng Zhou",
+  "px": 600,
+  "bytes": 92711
+ },
+ "recipe:pepper-pork": {
+  "file": "images/recipe-pepper-pork.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Twice-cooked pork",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Twice_cooked_pork,_Jia_Yan,_5_rue_Humblot,_Paris_003.jpg",
+  "license": "CC BY 2.0",
+  "author": "Guilhem Vellut from Paris, France",
+  "px": 600,
+  "bytes": 74488
+ },
+ "recipe:pickled-cabbage-pork": {
+  "file": "images/recipe-pickled-cabbage-pork.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Suan cai",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sayur_asin_pickles.JPG",
+  "license": "CC BY-SA 3.0",
+  "author": "Midori",
+  "px": 600,
+  "bytes": 90791
+ },
+ "recipe:pork-cabbage-dumpling": {
+  "file": "images/recipe-pork-cabbage-dumpling.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Jiaozi",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%8D%97%E6%8A%95%E8%8D%89%E5%B1%AF%E6%B0%B4%E9%A4%83Nantou,_Taiwan_Caotun_dumplings.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Yeepunchmen",
+  "px": 600,
+  "bytes": 104129
+ },
+ "recipe:pork-vermicelli-stew": {
+  "file": "images/recipe-pork-vermicelli-stew.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Glass noodles",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cooked_dangmyeon.jpg",
+  "license": "CC BY 4.0",
+  "author": "토리랑",
+  "px": 600,
+  "bytes": 73129
+ },
+ "recipe:potato-beef-stew": {
+  "file": "images/recipe-potato-beef-stew.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "古拉什",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gulyas080.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Lily15",
+  "px": 600,
+  "bytes": 100135
+ },
+ "recipe:potato-chicken-stew": {
+  "file": "images/recipe-potato-chicken-stew.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Chicken stew (Turkey).jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_stew_(Turkey).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "E4024",
+  "px": 600,
+  "bytes": 84938
+ },
+ "recipe:pumpkin-cake": {
+  "file": "images/recipe-pumpkin-cake.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "Pumpkin festival - Ludwigsburg 2024 - 28.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pumpkin_festival_-_Ludwigsburg_2024_-_28.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Llez",
+  "px": 600,
+  "bytes": 97718
+ },
+ "recipe:radish-beef-soup": {
+  "file": "images/recipe-radish-beef-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef noodle soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lanzhou_La_Mian.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "MDRX",
+  "px": 600,
+  "bytes": 95925
+ },
+ "recipe:salt-pepper-shrimp": {
+  "file": "images/recipe-salt-pepper-shrimp.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Shrimp",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Palaemon_serratus_Croazia.jpg",
+  "license": "Public domain",
+  "author": "Etrusko25",
+  "px": 600,
+  "bytes": 99923
+ },
+ "recipe:sausage-sticky-rice": {
+  "file": "images/recipe-sausage-sticky-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Glutinous rice",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chapssal_(glutinous_rice).jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "author": "국립국어원",
+  "px": 600,
+  "bytes": 46451
+ },
+ "recipe:scallion-oil-noodle": {
+  "file": "images/recipe-scallion-oil-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "葱油拌面",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E8%91%B1%E8%8A%B1%E8%91%B1%E6%B2%B9%E6%8B%8C%E9%9D%A2.jpg",
+  "license": "CC0",
+  "author": "Suginami",
+  "px": 600,
+  "bytes": 54195
+ },
+ "recipe:scallion-pancake": {
+  "file": "images/recipe-scallion-pancake.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "蔥油餅",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spring_onion_pancake_2013.JPG",
+  "license": "GFDL",
+  "author": "Howard61313",
+  "px": 600,
+  "bytes": 105218
+ },
+ "recipe:shrimp-scrambled-egg": {
+  "file": "images/recipe-shrimp-scrambled-egg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Scrambled eggs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scrambed_eggs.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Takeaway",
+  "px": 600,
+  "bytes": 80734
+ },
+ "recipe:smashed-cucumber": {
+  "file": "images/recipe-smashed-cucumber.jpg",
+  "source": "commons.wikimedia.org",
+  "title": "凉拌黄瓜.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E5%87%89%E6%8B%8C%E9%BB%84%E7%93%9C.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "酋长大人",
+  "px": 600,
+  "bytes": 116531
+ },
+ "recipe:sour-hot-noodle": {
+  "file": "images/recipe-sour-hot-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "酸辣粉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hot_and_sour_noodles_with_pork_intestines.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Jpatokal",
+  "px": 600,
+  "bytes": 83677
+ },
+ "recipe:sour-potato-shred": {
+  "file": "images/recipe-sour-potato-shred.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Potato",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+  "license": "Public domain",
+  "author": "Scott Bauer, USDA ARS",
+  "px": 600,
+  "bytes": 95266
+ },
+ "recipe:sour-soup-beef-roll": {
+  "file": "images/recipe-sour-soup-beef-roll.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg",
+  "license": "CC BY-SA 2.5",
+  "author": "Michael C. Berch, aka MCB at en.wikipedia",
+  "px": 600,
+  "bytes": 53175
+ },
+ "recipe:soy-milk": {
+  "file": "images/recipe-soy-milk.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Soy milk",
+  "page_url": "https://commons.wikimedia.org/wiki/File:004-soymilk.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Kjokkenutstyr",
+  "px": 600,
+  "bytes": 42128
+ },
+ "recipe:spicy-chicken": {
+  "file": "images/recipe-spicy-chicken.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "辣子鸡",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Laziji_at_Beijing_Yibin_Hostel_(20210625111300).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "N509FZ",
+  "px": 600,
+  "bytes": 109248
+ },
+ "recipe:spinach-century-egg": {
+  "file": "images/recipe-spinach-century-egg.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Spinach",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spinacia_oleracea_Spinazie_bloeiend.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Rasbak",
+  "px": 600,
+  "bytes": 73396
+ },
+ "recipe:squirrel-fish": {
+  "file": "images/recipe-squirrel-fish.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "松鼠鳜鱼",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E9%BC%A0%E9%B3%9C%E9%B1%BC.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "dejur",
+  "px": 600,
+  "bytes": 87165
+ },
+ "recipe:steamed-crab": {
+  "file": "images/recipe-steamed-crab.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "中華絨螯蟹",
+  "page_url": "https://commons.wikimedia.org/wiki/File:EriocheirSinensis1.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Christian Fischer",
+  "px": 600,
+  "bytes": 111810
+ },
+ "recipe:steamed-egg-custard": {
+  "file": "images/recipe-steamed-egg-custard.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chinese steamed eggs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chinese_steamed_eggs_by_Kanko.jpg",
+  "license": "CC BY 2.0",
+  "author": "Kanko*",
+  "px": 600,
+  "bytes": 52308
+ },
+ "recipe:steamed-ribs-rice-powder": {
+  "file": "images/recipe-steamed-ribs-rice-powder.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Spare ribs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spareribs_20160506_182617113.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Edo de Roo",
+  "px": 600,
+  "bytes": 64982
+ },
+ "recipe:stirfry-lettuce-stem": {
+  "file": "images/recipe-stirfry-lettuce-stem.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Celtuce",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Celtuce.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Downtowngal",
+  "px": 600,
+  "bytes": 45524
+ },
+ "recipe:sweet-sour-pork": {
+  "file": "images/recipe-sweet-sour-pork.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Sweet and sour pork",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sweet_and_sour_pork.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "ProjectManhattan",
+  "px": 600,
+  "bytes": 88204
+ },
+ "recipe:sweet-sour-ribs": {
+  "file": "images/recipe-sweet-sour-ribs.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "糖醋排骨",
+  "page_url": "https://commons.wikimedia.org/wiki/File:T%C3%A1ngc%C3%B9_p%C3%A1ig%C7%94.jpg",
+  "license": "CC BY 2.0",
+  "author": "Lim Ashley",
+  "px": 600,
+  "bytes": 89228
+ },
+ "recipe:tea-egg": {
+  "file": "images/recipe-tea-egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "茶葉蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tea_eggs_3.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Daniela Eftimova",
+  "px": 600,
+  "bytes": 50987
+ },
+ "recipe:three-cup-chicken": {
+  "file": "images/recipe-three-cup-chicken.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "三杯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Archon6812",
+  "px": 600,
+  "bytes": 53110
+ },
+ "recipe:three-delicacy-wonton": {
+  "file": "images/recipe-three-delicacy-wonton.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Wonton",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pork_Steamed_Wontons.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sumit Surai",
+  "px": 600,
+  "bytes": 60159
+ },
+ "recipe:tofu-pudding": {
+  "file": "images/recipe-tofu-pudding.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "豆花",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Douhua(%E8%B1%86%E8%8A%B1).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Hiroooooo",
+  "px": 600,
+  "bytes": 64864
+ },
+ "recipe:tomato-beef-brisket": {
+  "file": "images/recipe-tomato-beef-brisket.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Brisket",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Brisketphoto.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Josh Evnin from Chicago, IL, USA",
+  "px": 600,
+  "bytes": 88915
+ },
+ "recipe:tomato-beef-noodle": {
+  "file": "images/recipe-tomato-beef-noodle.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Beef noodle soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Lanzhou_La_Mian.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "MDRX",
+  "px": 600,
+  "bytes": 95925
+ },
+ "recipe:tomato-egg": {
+  "file": "images/recipe-tomato-egg.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "番茄炒蛋",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B2.PNG",
+  "license": "CC BY-SA 4.0",
+  "author": "三島堂",
+  "px": 600,
+  "bytes": 52971
+ },
+ "recipe:tomato-egg-noodle": {
+  "file": "images/recipe-tomato-egg-noodle.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Stir-fried tomato and scrambled eggs",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B2.PNG",
+  "license": "CC BY-SA 4.0",
+  "author": "三島堂",
+  "px": 600,
+  "bytes": 52971
+ },
+ "recipe:tomato-egg-pancake": {
+  "file": "images/recipe-tomato-egg-pancake.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Pancake",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Foodiesfeed.com_pouring-honey-on-pancakes-with-walnuts.jpg",
+  "license": "CC0",
+  "author": "Mae Mu",
+  "px": 600,
+  "bytes": 60680
+ },
+ "recipe:tomato-egg-soup": {
+  "file": "images/recipe-tomato-egg-soup.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "番茄蛋湯",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tomato_and_egg_soup2.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "NNU-10-HanRongrong",
+  "px": 600,
+  "bytes": 50816
+ },
+ "recipe:tremella-soup": {
+  "file": "images/recipe-tremella-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Tremella fuciformis",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tremella_fuciformis_337510.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer, a source for mycological images.You can con",
+  "px": 600,
+  "bytes": 74808
+ },
+ "recipe:twice-cooked-pork": {
+  "file": "images/recipe-twice-cooked-pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "回锅肉",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Huiguorou_made_from_Neijiang_local_pork_at_Daqian_Restaurant,_Beidadi_(20251011111845).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "N509FZ",
+  "px": 600,
+  "bytes": 62583
+ },
+ "recipe:white-cut-chicken": {
+  "file": "images/recipe-white-cut-chicken.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "白切雞",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Whitecutchicken.jpg",
+  "license": "Public domain",
+  "author": "Benjwong",
+  "px": 600,
+  "bytes": 84574
+ },
+ "recipe:winter-melon-meatball-soup": {
+  "file": "images/recipe-winter-melon-meatball-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Melon soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Soupe_melon_brochettes_mozza.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sylvie Bidaux",
+  "px": 600,
+  "bytes": 61340
+ },
+ "recipe:winter-melon-ribs-soup": {
+  "file": "images/recipe-winter-melon-ribs-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Melon soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Soupe_melon_brochettes_mozza.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sylvie Bidaux",
+  "px": 600,
+  "bytes": 61340
+ },
+ "recipe:winter-melon-shrimp": {
+  "file": "images/recipe-winter-melon-shrimp.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Wax gourd",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Benincasa_hispida_compose.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Akshay.paramatmuni1987 (left photo), মৌচুমী (bottom right photo), Zhangzhugang (upper right photo), montage by User:RoRo",
+  "px": 600,
+  "bytes": 94646
+ },
+ "recipe:xinjiang-pilaf": {
+  "file": "images/recipe-xinjiang-pilaf.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Pilaf",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Afghan_Palo.jpg",
+  "license": "CC BY-SA 1.0",
+  "author": "Jost Wagner",
+  "px": 600,
+  "bytes": 83666
+ },
+ "recipe:yam-chicken-soup": {
+  "file": "images/recipe-yam-chicken-soup.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chicken soup",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Noodle_Soup.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Hoyabird8",
+  "px": 600,
+  "bytes": 64086
+ },
+ "recipe:yam-wood-ear": {
+  "file": "images/recipe-yam-wood-ear.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Chinese yam",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dioscorea_polystachya_(batatas).jpg",
+  "license": "Public domain",
+  "author": "未知作者",
+  "px": 600,
+  "bytes": 53303
+ },
+ "recipe:yangzhou-fried-rice": {
+  "file": "images/recipe-yangzhou-fried-rice.jpg",
+  "source": "en.wikipedia.org",
+  "title": "Yangzhou fried rice",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Chinese_fried_rice_by_stu_spivack_in_Cleveland,_OH.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "stu_spivack from C & Y Chinese Restaurant in Cleveland's Chinatown, Ohio",
+  "px": 600,
+  "bytes": 69420
+ },
+ "recipe:yuxiang-pork": {
+  "file": "images/recipe-yuxiang-pork.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "鱼香肉丝",
+  "page_url": "https://commons.wikimedia.org/wiki/File:%E9%B1%BC%E9%A6%99%E8%82%89%E4%B8%9D.jpg",
+  "license": "CC BY-SA 3.0",
+  "author": "Дмитрий Журавлев (dejur)",
+  "px": 600,
+  "bytes": 58237
+ },
+ "recipe:zhajiang-noodle": {
+  "file": "images/recipe-zhajiang-noodle.jpg",
+  "source": "zh.wikipedia.org",
+  "title": "炸醬麵",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Noodles_with_soy_bean_paste.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Zheng Zhou",
+  "px": 600,
+  "bytes": 100626
+ }
+}
