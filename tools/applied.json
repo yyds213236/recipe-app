@@ -1,5 +1,14 @@
 {
-  "applied": [],
-  "runs": [],
+  "applied": [
+    "pwa-icon-file"
+  ],
+  "runs": [
+    {
+      "date": "2026-11-15",
+      "id": "pwa-icon-file",
+      "result": "applied",
+      "title": "补一张 SVG 应用图标"
+    }
+  ],
   "failed": {}
 }

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="小锅菜谱">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C0603C"/>
+      <stop offset="1" stop-color="#A44B2C"/>
+    </linearGradient>
+    <linearGradient id="pan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF7F0"/>
+      <stop offset="1" stop-color="#F2D7C3"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="302" r="136" fill="#FFFFFF" opacity=".10"/>
+  <path d="M212 214c-20-22 14-36-4-60M262 204c-20-22 14-36-4-60M312 214c-20-22 14-36-4-60"
+        fill="none" stroke="#FFF7F0" stroke-width="15" stroke-linecap="round" opacity=".9"/>
+  <path d="M118 268h276c-9 76-63 124-138 124s-129-48-138-124z" fill="url(#pan)"/>
+  <rect x="100" y="246" width="312" height="28" rx="14" fill="#FFF7F0"/>
+  <rect x="396" y="250" width="72" height="22" rx="11" fill="#F2D7C3"/>
+</svg>
