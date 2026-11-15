@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yyds213236.github.io/recipe-app/sitemap.xml
