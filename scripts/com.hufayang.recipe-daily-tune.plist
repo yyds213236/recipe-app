@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- 每天 10:30 给「小锅菜谱」做一个小优化，跑 check.js 通过后提交并推送。 -->
+  <key>Label</key>
+  <string>com.hufayang.recipe-daily-tune</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/apple/Projects/recipe-app/tools/daily_tune.py</string>
+    <string>--push</string>
+  </array>
+
+  <!-- 关键字：git 必须在这个目录里跑，否则找不到仓库 -->
+  <key>WorkingDirectory</key>
+  <string>/Users/apple/Projects/recipe-app</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>10</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+
+  <!-- 装了之后不要立刻跑一次；第一次什么时候改由你手动决定 -->
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/apple/Library/Logs/recipe-daily-tune.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/apple/Library/Logs/recipe-daily-tune.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <!-- launchd 的默认 PATH 只有 /usr/bin:/bin:/usr/sbin:/sbin，git 在 /usr/bin 没问题，
+         但 node 在 ~/.local/bin，manifest 里的 PATH 把两层都带上 -->
+    <key>PATH</key>
+    <string>/Users/apple/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <!-- launchd 下 locale 是 POSIX，显式声明 UTF-8，免得日志里的中文/emoji 变成 ? -->
+    <key>PYTHONIOENCODING</key>
+    <string>utf-8</string>
+    <key>LANG</key>
+    <string>zh_CN.UTF-8</string>
+  </dict>
+
+  <key>ProcessType</key>
+  <string>Background</string>
+
+  <!-- 崩溃了别疯狂重启：10 分钟内最多一次 -->
+  <key>ThrottleInterval</key>
+  <integer>600</integer>
+</dict>
+</plist>

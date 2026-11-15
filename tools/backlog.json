@@ -1,0 +1,332 @@
+[
+  {
+    "id": "pwa-icon-file",
+    "title": "补一张 SVG 应用图标",
+    "kind": "new_file",
+    "file": "icon.svg",
+    "note": "manifest 的 icons 需要一个真实文件；用矢量画锅，512×512 任意缩放不糊，仅 1.5 KB",
+    "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" width=\"512\" height=\"512\" role=\"img\" aria-label=\"小锅菜谱\">\n  <defs>\n    <linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      <stop offset=\"0\" stop-color=\"#C0603C\"/>\n      <stop offset=\"1\" stop-color=\"#A44B2C\"/>\n    </linearGradient>\n    <linearGradient id=\"pan\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0\" stop-color=\"#FFF7F0\"/>\n      <stop offset=\"1\" stop-color=\"#F2D7C3\"/>\n    </linearGradient>\n  </defs>\n  <rect width=\"512\" height=\"512\" rx=\"112\" fill=\"url(#bg)\"/>\n  <circle cx=\"256\" cy=\"302\" r=\"136\" fill=\"#FFFFFF\" opacity=\".10\"/>\n  <path d=\"M212 214c-20-22 14-36-4-60M262 204c-20-22 14-36-4-60M312 214c-20-22 14-36-4-60\"\n        fill=\"none\" stroke=\"#FFF7F0\" stroke-width=\"15\" stroke-linecap=\"round\" opacity=\".9\"/>\n  <path d=\"M118 268h276c-9 76-63 124-138 124s-129-48-138-124z\" fill=\"url(#pan)\"/>\n  <rect x=\"100\" y=\"246\" width=\"312\" height=\"28\" rx=\"14\" fill=\"#FFF7F0\"/>\n  <rect x=\"396\" y=\"250\" width=\"72\" height=\"22\" rx=\"11\" fill=\"#F2D7C3\"/>\n</svg>\n"
+  },
+  {
+    "id": "pwa-manifest-file",
+    "title": "新增 PWA manifest 文件",
+    "kind": "new_file",
+    "file": "manifest.webmanifest",
+    "note": "standalone 显示 + 主题色 + 图标；没有 service worker 也能添加主屏，只是离线缓存仍靠「零外链」",
+    "content": "{\n  \"name\": \"小锅菜谱 · 今天吃点什么\",\n  \"short_name\": \"小锅菜谱\",\n  \"description\": \"选几样食材，看看今晚能做什么。纯离线的中国家常菜谱。\",\n  \"lang\": \"zh-CN\",\n  \"dir\": \"ltr\",\n  \"start_url\": \"./index.html\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"portrait\",\n  \"background_color\": \"#FDF8F2\",\n  \"theme_color\": \"#FDF8F2\",\n  \"icons\": [\n    { \"src\": \"icon.svg\", \"sizes\": \"any\", \"type\": \"image/svg+xml\", \"purpose\": \"any\" },\n    { \"src\": \"icon.svg\", \"sizes\": \"any\", \"type\": \"image/svg+xml\", \"purpose\": \"maskable\" }\n  ]\n}\n"
+  },
+  {
+    "id": "pwa-manifest-link",
+    "title": "index.html 挂上 manifest 链接",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<link rel=\"stylesheet\" href=\"styles.css\">",
+    "before": true,
+    "marker": "rel=\"manifest\"",
+    "content": "<link rel=\"manifest\" href=\"manifest.webmanifest\">\n",
+    "note": "Android/桌面 Chromium 可「添加到主屏」变成独立窗口；iOS 走 apple-mobile-web-app-* 那套"
+  },
+  {
+    "id": "favicon-link",
+    "title": "补 <link rel=\"icon\"> 指向 SVG 图标",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<link rel=\"stylesheet\" href=\"styles.css\">",
+    "before": true,
+    "marker": "rel=\"icon\"",
+    "content": "<link rel=\"icon\" href=\"icon.svg\" type=\"image/svg+xml\">\n",
+    "note": "现在完全没有 favicon 声明，浏览器每次都会去要 /favicon.ico 拿 404，标签页也是空白图标"
+  },
+  {
+    "id": "ios-homescreen-meta",
+    "title": "补 iOS 添加到主屏的 meta",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<meta name=\"description\" content=\"小锅菜谱 —— 选几样食材，看看今晚能做什么。纯离线的中国家常菜谱。\">",
+    "before": false,
+    "marker": "apple-mobile-web-app-status-bar-style",
+    "content": "\n<meta name=\"mobile-web-app-capable\" content=\"yes\">\n<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"default\">\n<meta name=\"apple-mobile-web-app-title\" content=\"小锅菜谱\">\n<meta name=\"format-detection\" content=\"telephone=no\">",
+    "note": "iOS 加到主屏后隐藏 Safari 地址栏、状态栏不压内容；format-detection 顺带关掉把菜名里的数字识别成电话号码"
+  },
+  {
+    "id": "og-card",
+    "title": "补 Open Graph 分享卡片",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<title>小锅菜谱 · 今天吃点什么</title>",
+    "before": true,
+    "marker": "property=\"og:image\"",
+    "content": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:site_name\" content=\"小锅菜谱\">\n<meta property=\"og:title\" content=\"小锅菜谱 · 今天吃点什么\">\n<meta property=\"og:description\" content=\"选几样食材，看看今晚能做什么。纯离线的中国家常菜谱，双击即用。\">\n<meta property=\"og:url\" content=\"https://yyds213236.github.io/recipe-app/\">\n<meta property=\"og:image\" content=\"https://yyds213236.github.io/recipe-app/images/recipe-braised-pork.jpg\">\n<meta property=\"og:image:alt\" content=\"红烧肉\">\n<meta property=\"og:locale\" content=\"zh_CN\">\n",
+    "note": "微信/iMessage/Telegram 粘贴链接时出标题图和简介；图片用仓库已有的红烧肉，600×432（仓库里最大的就 600 宽，没有再大的可用）"
+  },
+  {
+    "id": "twitter-card",
+    "title": "补 Twitter Card meta",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "</head>",
+    "before": true,
+    "marker": "name=\"twitter:card\"",
+    "content": "<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"小锅菜谱 · 今天吃点什么\">\n<meta name=\"twitter:description\" content=\"选几样食材，看看今晚能做什么。纯离线的中国家常菜谱。\">\n<meta name=\"twitter:image\" content=\"https://yyds213236.github.io/recipe-app/images/recipe-braised-pork.jpg\">\n",
+    "note": "X/Twitter 用大图卡；没有这组标签只会抓个纯文本标题"
+  },
+  {
+    "id": "share-button",
+    "title": "详情页加「分享」按钮（系统分享 / 复制链接降级）",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "id=\"share-recipe\"",
+    "note": "手机上走 navigator.share 拉起系统分享面板；桌面浏览器没有该 API，自动降级为复制「菜名 + 链接」",
+    "edits": [
+      {
+        "old": "        '<footer class=\"sheet-foot\">' +\n          '<button class=\"btn-primary\" type=\"button\" id=\"add-basket\">' +\n            (state.basket.has(r.id) ? '已在菜篮 · 移出' : '加入我的菜篮') +\n          '</button>' +\n        '</footer>' +",
+        "new": "        '<footer class=\"sheet-foot\">' +\n          '<button class=\"btn-primary\" type=\"button\" id=\"add-basket\">' +\n            (state.basket.has(r.id) ? '已在菜篮 · 移出' : '加入我的菜篮') +\n          '</button>' +\n          '<button class=\"icon-btn\" type=\"button\" id=\"share-recipe\" aria-label=\"分享这道菜\">📤</button>' +\n        '</footer>' +"
+      },
+      {
+        "old": "    if (navigator.clipboard && navigator.clipboard.writeText) {\n      navigator.clipboard.writeText(text).then(done, fail);\n    } else fail();\n  }",
+        "new": "    if (navigator.clipboard && navigator.clipboard.writeText) {\n      navigator.clipboard.writeText(text).then(done, fail);\n    } else fail();\n  }\n\n  /* ---------- 分享：系统分享面板 → 不支持就复制链接 ---------- */\n  function shareUrlFor(id) {\n    var base = (location.origin && location.origin !== 'null')\n      ? location.origin + location.pathname\n      : location.href.split('#')[0];   // file:// 下 origin 是 null，退回当前文件路径\n    return base + '#/recipe/' + id;\n  }\n\n  function bindShare(sheet, r) {\n    var btn = $('#share-recipe', sheet);\n    if (!btn) return;\n    btn.addEventListener('click', function () {\n      var url = shareUrlFor(r.id);\n      var title = r.name + ' · 小锅菜谱';\n      var text = '今晚做这道：' + r.name + '，' + r.time + ' 分钟';\n      if (navigator.share) {\n        navigator.share({ title: title, text: text, url: url }).catch(function (err) {\n          if (err && err.name === 'AbortError') return;   // 用户自己取消的，不打扰\n          copyText(title + ' ' + url);\n        });\n        return;\n      }\n      copyText(title + ' ' + url);\n    });\n  }"
+      },
+      {
+        "old": "    mask.addEventListener('click', closeSheet);\n    $('#sh-close', sheet).addEventListener('click', closeSheet);\n    $('#sh-timer', sheet).addEventListener('click', toggleTimerBlock);",
+        "new": "    mask.addEventListener('click', closeSheet);\n    $('#sh-close', sheet).addEventListener('click', closeSheet);\n    $('#sh-timer', sheet).addEventListener('click', toggleTimerBlock);\n    bindShare(sheet, r);"
+      }
+    ]
+  },
+  {
+    "id": "focus-visible",
+    "title": "补 :focus-visible 键盘焦点圈",
+    "kind": "replace",
+    "file": "styles.css",
+    "marker": ":focus-visible{",
+    "note": "现在只有 input:focus{outline:none}，键盘 Tab 到卡片/按钮/链接时看不见焦点位置；改成只在键盘操作时出现焦点圈。color-mix 前留一条纯色 outline 兜底，免得 Safari 16.4 以下整条声明被丢弃、反而没有焦点圈",
+    "edits": [
+      {
+        "old": "input:focus{ outline: none; }",
+        "new": "input:focus{ outline: none; }\n\n/* 键盘焦点圈：只在键盘/读屏操作时出现，鼠标点击不闪一圈 */\n:focus-visible{\n  outline: 2px solid var(--brand);                                   /* 老浏览器兜底 */\n  outline: 2px solid color-mix(in srgb, var(--brand) 68%, transparent);\n  outline-offset: 2px;\n}\n.card:focus-visible, .res-card:focus-visible, .ing:focus-visible,\n.chip:focus-visible, .cat-tab:focus-visible, .tab:focus-visible{ outline-offset: 3px; }\ninput:focus-visible{ outline: none; }"
+      }
+    ]
+  },
+  {
+    "id": "timer-live-region",
+    "title": "计时器改用 aria-live 播报状态",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "id=\"t-live\"",
+    "note": "倒计时数字不能挂 aria-live（每 250ms 变一次会把读屏吵死），改成独立的 sr-only status 区只播报「开始/结束」",
+    "edits": [
+      {
+        "old": "'<span class=\"timer-display\" id=\"t-display\">00:00</span>' +",
+        "new": "'<span class=\"timer-display\" id=\"t-display\" role=\"timer\" aria-live=\"off\">00:00</span>' +\n                '<span class=\"sr-only\" id=\"t-live\" role=\"status\" aria-live=\"polite\"></span>' +"
+      },
+      {
+        "old": "  function paintTimer() {",
+        "new": "  /* 只播报状态变化，不读每一秒 */\n  function sayTimer(msg) {\n    var el = $('#t-live');\n    if (el) el.textContent = msg;\n  }\n\n  function paintTimer() {"
+      },
+      {
+        "old": "    timer.left = ms;\n    paintTimer();\n    timer.id = setInterval(function () {",
+        "new": "    timer.left = ms;\n    paintTimer();\n    sayTimer('计时 ' + Math.round(ms / 60000) + ' 分钟开始');\n    timer.id = setInterval(function () {"
+      },
+      {
+        "old": "        beep();\n        toast('⏰ 时间到，去看看锅里');",
+        "new": "        beep();\n        sayTimer('计时结束，时间到');\n        toast('⏰ 时间到，去看看锅里');"
+      }
+    ]
+  },
+  {
+    "id": "skip-link-style",
+    "title": "补「跳到主内容」链接样式",
+    "kind": "append",
+    "file": "styles.css",
+    "marker": ".skip-link{",
+    "note": "链接默认藏到视口上方（top:-64px），Tab 第一下才滑出来；先落样式再落 HTML，顺序不能反",
+    "content": "\n/* ---------- 跳到主内容（Tab 第一下出现，键盘/读屏用） ---------- */\n.skip-link{\n  position: absolute;\n  left: 12px;\n  top: -64px;\n  z-index: 400;\n  padding: 10px 16px;\n  border-radius: 12px;\n  background: var(--card);\n  border: 1px solid var(--line);\n  box-shadow: var(--shadow-m);\n  color: var(--brand-dark);\n  font-size: 13px;\n  font-weight: 600;\n  white-space: nowrap;\n  transition: top .16s ease;\n}\n.skip-link:focus, .skip-link:focus-visible{\n  top: calc(12px + env(safe-area-inset-top, 0px));\n}\n@media (prefers-color-scheme: dark){\n  .skip-link{ color: var(--brand); }\n}\n"
+  },
+  {
+    "id": "skip-link-html",
+    "title": "页面加「跳到主内容」链接",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<body>",
+    "before": false,
+    "marker": "class=\"skip-link\"",
+    "note": "用 onclick 聚焦 #view 并 return false，避免 #view 被 hash 路由当成一个页面而跳回首页",
+    "content": "\n  <a class=\"skip-link\" href=\"#view\"\n     onclick=\"var m = document.getElementById('view'); if (m) { m.setAttribute('tabindex', '-1'); m.focus(); } return false;\">跳到主内容</a>"
+  },
+  {
+    "id": "pantry-search-attrs",
+    "title": "食材页搜索框补 enterkeyhint / autocapitalize",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "id=\"pq\" type=\"search\" inputmode=\"search\"",
+    "note": "首页搜索框有 enterkeyhint，食材页这个漏了：iOS 键盘回车会显示「搜索」而不是「换行」，且不会自动首字母大写",
+    "edits": [
+      {
+        "old": "'<input id=\"pq\" type=\"search\" autocomplete=\"off\" placeholder=\"搜食材，如 土豆 / 洋芋\" ' +",
+        "new": "'<input id=\"pq\" type=\"search\" inputmode=\"search\" enterkeyhint=\"search\" autocapitalize=\"off\" spellcheck=\"false\" autocomplete=\"off\" placeholder=\"搜食材，如 土豆 / 洋芋\" ' +"
+      }
+    ]
+  },
+  {
+    "id": "ps-toggle-aria-expanded",
+    "title": "已选横条补 aria-expanded / aria-controls",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "aria-controls=\"ps\"",
+    "note": "「已选 N 种」是个折叠开关，但没告诉读屏它是展开还是收起；点一次同步一次状态",
+    "edits": [
+      {
+        "old": "      '<button class=\"ps-bar\" type=\"button\" id=\"ps-toggle\">' +",
+        "new": "      '<button class=\"ps-bar\" type=\"button\" id=\"ps-toggle\" aria-expanded=\"' + (state.pantryOpen ? 'true' : 'false') + '\" aria-controls=\"ps\">' +"
+      },
+      {
+        "old": "      state.pantryOpen = !state.pantryOpen;\n      bar.classList.toggle('open', state.pantryOpen);\n    });",
+        "new": "      state.pantryOpen = !state.pantryOpen;\n      bar.classList.toggle('open', state.pantryOpen);\n      $('#ps-toggle', bar).setAttribute('aria-expanded', String(state.pantryOpen));\n    });"
+      }
+    ]
+  },
+  {
+    "id": "touch-target-44",
+    "title": "小圆按钮热区补到 44px",
+    "kind": "insert",
+    "file": "styles.css",
+    "anchor": ".bi-remove{\n  flex: none; width: 34px; height: 34px; border-radius: 50%;\n  display: grid; place-items: center;\n  background: var(--bg-soft); color: var(--ink-3); font-size: 15px;\n}",
+    "before": false,
+    "marker": ".sh-close::after",
+    "note": "详情页关闭/计时器、菜篮移除按钮都只有 34px。视觉不改，用透明 ::after 把热区撑到 44×44（Apple HIG 的最小值）",
+    "content": "\n\n/* 小圆按钮视觉保持 34px，热区补到 44×44（透明层，不影响布局与对齐） */\n.sh-close, .bi-remove{ position: relative; }\n.sh-close::after, .bi-remove::after{\n  content: \"\";\n  position: absolute;\n  left: 50%; top: 50%;\n  width: 44px; height: 44px;\n  transform: translate(-50%, -50%);\n}"
+  },
+  {
+    "id": "longpress-copy-name",
+    "title": "长按菜名复制菜名",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "bindLongPressName",
+    "note": "手机上菜名是 <div>，既选不中也复制不了；长按 550ms 复制菜名，桌面右键菜单不动",
+    "edits": [
+      {
+        "old": "  function closeSheet() {",
+        "new": "  /* 长按菜名：复制菜名（手机上选不中文字，给个快捷方式） */\n  function bindLongPressName(sheet, r) {\n    var nameEl = $('.sh-name', sheet);\n    if (!nameEl) return;\n    var holdTimer = 0;\n    function cancelHold() {\n      if (holdTimer) { clearTimeout(holdTimer); holdTimer = 0; }\n    }\n    nameEl.addEventListener('pointerdown', function () {\n      cancelHold();\n      holdTimer = setTimeout(function () {\n        holdTimer = 0;\n        copyText(r.name);\n      }, 550);\n    });\n    ['pointerup', 'pointercancel', 'pointerleave'].forEach(function (ev) {\n      nameEl.addEventListener(ev, cancelHold);\n    });\n  }\n\n  function closeSheet() {"
+      },
+      {
+        "old": "    $('#sh-close', sheet).addEventListener('click', closeSheet);",
+        "new": "    $('#sh-close', sheet).addEventListener('click', closeSheet);\n    bindLongPressName(sheet, r);"
+      }
+    ]
+  },
+  {
+    "id": "result-overflow-hint",
+    "title": "结果页分组超过 40 道时给出提示",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "arr.length - 40",
+    "note": "group() 一直 slice(0, 40)，154 道菜时「差 2 样以上」会被静默截断，用户不知道还有多少没显示",
+    "edits": [
+      {
+        "old": "        '</div>' + cards + '</section>';",
+        "new": "        '</div>' + cards +\n        (arr.length > 40\n          ? '<div class=\"inline-hint\" style=\"margin:8px 2px 0\">这一组还有 ' + (arr.length - 40) + ' 道没展开，用搜索缩小范围更快</div>'\n          : '') +\n        '</section>';"
+      }
+    ]
+  },
+  {
+    "id": "reduced-motion-scroll",
+    "title": "尊重 prefers-reduced-motion 的滚动动画",
+    "kind": "replace",
+    "file": "app.js",
+    "marker": "function scrollBehavior()",
+    "note": "CSS 里已经关掉了过渡，但 JS 的 scrollIntoView({behavior:'smooth'}) 不认这条媒体查询，晕动症用户照样被平滑滚动晃",
+    "edits": [
+      {
+        "old": "  function diffDots(d) { return (DIFF[d] || DIFF[1])[1]; }",
+        "new": "  function diffDots(d) { return (DIFF[d] || DIFF[1])[1]; }\n  var reduceMotion = window.matchMedia ? window.matchMedia('(prefers-reduced-motion: reduce)') : null;\n  function scrollBehavior() { return reduceMotion && reduceMotion.matches ? 'auto' : 'smooth'; }"
+      },
+      {
+        "old": "behavior: 'smooth'",
+        "new": "behavior: scrollBehavior()",
+        "count": "all"
+      }
+    ]
+  },
+  {
+    "id": "content-visibility",
+    "title": "卡片网格加 content-visibility: auto",
+    "kind": "insert",
+    "file": "styles.css",
+    "anchor": ".card:active{ transform: scale(.975); }",
+    "before": false,
+    "marker": "content-visibility: auto;",
+    "note": "154 张卡片一次性全排；屏幕外的跳过排版，contain-intrinsic-size 用 auto 记住真实高度，滚动条不跳",
+    "content": "\n\n/* 长列表：屏幕外的卡片跳过排版计算，首屏只排看得见的那些 */\n.card, .res-card{\n  content-visibility: auto;\n  contain-intrinsic-size: auto 128px;\n}"
+  },
+  {
+    "id": "safe-area-inset",
+    "title": "横屏刘海屏补左右安全区",
+    "kind": "replace",
+    "file": "styles.css",
+    "marker": "env(safe-area-inset-left, 0px)",
+    "note": "现在只用了 safe-area-inset-bottom（tabbar），横屏时正文会被圆角/刘海切掉左右各 44px",
+    "edits": [
+      {
+        "old": "  padding: 0 16px calc(var(--tabbar-h) + var(--safe-b) + 20px);",
+        "new": "  padding: 0 16px calc(var(--tabbar-h) + var(--safe-b) + 20px);\n  /* 横屏刘海屏：左右也留出安全区，正文不被圆角切掉 */\n  padding-left: calc(16px + env(safe-area-inset-left, 0px));\n  padding-right: calc(16px + env(safe-area-inset-right, 0px));"
+      }
+    ]
+  },
+  {
+    "id": "dark-contrast-difficulty",
+    "title": "修深色模式下难度文字的对比度",
+    "kind": "insert",
+    "file": "styles.css",
+    "anchor": ".card-meta .d1{ color: #4C8B5C; }\n.card-meta .d2{ color: #B4792A; }\n.card-meta .d3{ color: #B4472F; }",
+    "before": false,
+    "marker": "#6FB183",
+    "note": "这三档颜色写死为浅色模式配色，深色卡片 #241C17 上实测 d1≈4.2:1、d3≈3.1:1，都低于 AA 的 4.5:1，11.5px 小字看不清",
+    "content": "\n\n/* 深色模式下这三档对比度不足（d1≈4.2:1 / d3≈3.1:1，低于 AA 4.5:1），换同色相的更亮版本 */\n@media (prefers-color-scheme: dark){\n  .card-meta .d1{ color: #6FB183; }\n  .card-meta .d2{ color: #D89A4E; }\n  .card-meta .d3{ color: #EF8A70; }\n}"
+  },
+  {
+    "id": "overscroll-behavior",
+    "title": "关掉整页橡皮筋回弹",
+    "kind": "replace",
+    "file": "styles.css",
+    "marker": "overscroll-behavior-y: none",
+    "note": "iOS 滚到顶再往下拉会整页回弹、还可能触发下拉刷新把当前筛选状态刷掉；sheet 内部滚动用的是 contain，不受影响",
+    "edits": [
+      {
+        "old": "  -webkit-font-smoothing: antialiased;\n  overflow-x: hidden;",
+        "new": "  -webkit-font-smoothing: antialiased;\n  overflow-x: hidden;\n  /* iOS：滚到顶/底不再整页回弹，也不会下拉刷新把页面刷掉 */\n  overscroll-behavior-y: none;"
+      }
+    ]
+  },
+  {
+    "id": "noscript-banner",
+    "title": "补 <noscript> 提示条",
+    "kind": "insert",
+    "file": "index.html",
+    "anchor": "<div id=\"layers\"></div>",
+    "before": false,
+    "marker": "<noscript>",
+    "note": "关掉 JS 时页面是一片空白（所有内容都靠 app.js 渲染），至少告诉用户为什么空",
+    "content": "\n\n  <noscript>\n    <div style=\"position:fixed;left:0;right:0;bottom:0;z-index:900;padding:10px 14px;background:#C4453B;color:#fff;font-size:13px;line-height:1.5;text-align:center\">\n      这份菜谱需要 JavaScript 才能用：选食材、算能做什么、计时器都在本地脚本里跑。\n    </div>\n  </noscript>"
+  },
+  {
+    "id": "text-size-adjust",
+    "title": "锁住 iOS 横屏自动放大字号",
+    "kind": "replace",
+    "file": "styles.css",
+    "marker": "text-size-adjust: 100%",
+    "note": "iOS 旋转到横屏时会把 body 文字自动放大（不必要求），15px 的正文会跳到 17px 左右；显式声明 100% 关掉它，不影响双指缩放",
+    "edits": [
+      {
+        "old": "html, body{\n  margin: 0;",
+        "new": "html, body{\n  margin: 0;\n  -webkit-text-size-adjust: 100%;\n  text-size-adjust: 100%;"
+      }
+    ]
+  },
+  {
+    "id": "404-page",
+    "title": "新增 404.html",
+    "kind": "new_file",
+    "file": "404.html",
+    "note": "GitHub Pages 用它兜底，复用 styles.css，不额外请求图片",
+    "content": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<meta name=\"theme-color\" content=\"#FDF8F2\">\n<meta name=\"robots\" content=\"noindex\">\n<title>404 · 这页不见了 · 小锅菜谱</title>\n<link rel=\"stylesheet\" href=\"styles.css\">\n<style>\n  .nf{ padding: 56px 4px 24px; text-align: center; }\n  .nf .big{ font-size: 54px; display: block; margin-bottom: 10px; }\n  .nf h1{ margin: 0 0 8px; font-size: 24px; font-weight: 800; }\n  .nf p{ margin: 0 0 22px; font-size: 13.5px; line-height: 1.7; color: var(--ink-3); }\n  .nf a.btn-primary{ display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; text-decoration: none; }\n</style>\n</head>\n<body>\n  <div class=\"app\">\n    <main class=\"view\">\n      <section class=\"nf\">\n        <span class=\"big\">🍳</span>\n        <h1>这页被吃掉了</h1>\n        <p>地址可能拼错了，或者这道菜下架了。<br>回首页重新挑一道吧。</p>\n        <a class=\"btn-primary\" href=\"./\">回菜谱首页</a>\n      </section>\n    </main>\n  </div>\n</body>\n</html>\n"
+  }
+]

@@ -195,3 +195,94 @@ node check.js --json   # 机器可读
 ---
 
 数据源与生成脚本在 `_build/`（`ingredients.py` / `batch1-3.py` / `build.py` / `validate.py`），截图与冒烟测试脚本是 `_build/shot.js`、`_build/test.js`（Node + CDP 驱动无头 Chrome，精确 390×844，并收集控制台报错）。
+
+---
+
+## 每日自动优化
+
+每天 10:30，本机 launchd 会从 `tools/backlog.json` 里取**第一个还没做过**的条目，改一处小地方，跑一遍 `node check.js`，通过才提交（`--push` 时顺手推送）。
+
+不用 GitHub Actions：提交用的是你自己的 git 身份，所以这些提交算进贡献图。
+
+### 它怎么跑
+
+1. 取队列里第一个既不在 `applied` 也不在 `failed` 的条目；
+2. 按条目的 `kind` 改**一个**文件（`insert` 插入 / `replace` 替换 / `append` 追加 / `new_file` 新增）；
+3. 校验：`node check.js`（改的是 `.js` 时再加一道 `node --check`）；
+4. 通过 → 提交 `每日一点：<title>`，正文写清改了什么；
+   不通过 → 把那一个文件还原成原样、把这条标成 `failed`、**继续试下一条**；
+5. 队列清空后进入**巡检模式**：核对 README 里的统计数字，和 `data.js` 对不上就改正并提交 `每日巡检：更新统计数字`，对得上就什么都不做（不产生空提交）。
+
+幂等由条目里的 `marker` 保证：文件里已经有这个字符串就认为做过，直接跳过。所以重装、手动补跑、`applied.json` 丢了都不会重复改。
+
+### 三个文件
+
+| 文件 | 作用 |
+| --- | --- |
+| `tools/backlog.json` | 有序队列，前面的先做；每项一个原子改动 |
+| `tools/applied.json` | 进度：`applied` 做过、`failed` 失败原因、`runs` 每次运行记录 |
+| `tools/daily_tune.py` | 主控脚本，标准库实现，`--dry-run` / `--push` / `--retry-failed` |
+
+### 装、跑、停
+
+```bash
+# 安装（会先 bootout 旧的再 bootstrap，重装安全）
+bash scripts/install-daily-job.sh
+
+# 只看今天会改什么，一个字都不写
+python3 tools/daily_tune.py --dry-run
+
+# 手动跑一次（改 + 提交，不 push）
+python3 tools/daily_tune.py
+
+# 和定时任务完全一样（改 + 提交 + push）
+python3 tools/daily_tune.py --push
+
+# 把失败条目放回队列重试
+python3 tools/daily_tune.py --retry-failed
+
+# 暂停：卸载即可，队列和进度都留在 tools/applied.json 里，重新装上接着跑
+bash scripts/uninstall-daily-job.sh
+
+# 临时静音（不卸载，只是不让它跑）
+launchctl bootout gui/$(id -u)/com.hufayang.recipe-daily-tune
+```
+
+日志（追加写，两个流合并到同一个文件）：
+
+```bash
+tail -f ~/Library/Logs/recipe-daily-tune.log
+```
+
+plist 在 `scripts/com.hufayang.recipe-daily-tune.plist`，装到 `~/Library/LaunchAgents/`。里面有 `PATH`（launchd 默认不带 `~/.local/bin`，不加就找不到 node）和 `PYTHONIOENCODING=utf-8`（launchd 下 locale 是 POSIX，不加日志里的中文可能变问号）。
+
+### 怎么加新条目
+
+往 `tools/backlog.json` 数组里追加一项就行，**顺序就是优先级**（`python3 tools/daily_tune.py --dry-run` 会告诉你明天动哪条）。
+
+```json
+{
+  "id": "detail-nutrition",
+  "title": "详情页加一句热量提示",
+  "kind": "insert",
+  "file": "app.js",
+  "anchor": "'<div class=\"sh-name\">'",
+  "before": false,
+  "marker": "sh-kcal",
+  "content": "'<div class=\"sh-kcal\">约 300 千卡</div>' +",
+  "note": "为什么值得改，以及已知局限"
+}
+```
+
+写条目时的三条硬规矩：
+
+1. **一个条目只碰一个文件**（`new_file` 也只新增一个），这样 `git revert` 永远只回退一件事，也不会同时弄脏两个文件；
+2. **`marker` 必须是改完之后才存在的字符串** —— 它是幂等的唯一依据，写错了就会重复改；
+3. **`anchor` / `old` 要跟文件真实内容逐字一致**（含缩进和引号），写完先自检：
+
+```bash
+python3 -c "import json;print(len(json.load(open('tools/backlog.json'))),'项 OK')"
+python3 tools/daily_tune.py --dry-run
+```
+
+`kind` 四种写法：`insert`（`anchor` + `before` + `content`）、`replace`（`edits[]`，每条 `{old,new,count}`，`count` 省略表示必须恰好命中一次）、`append`（`content` 接到文件末尾）、`new_file`（`file` + `content`）。
