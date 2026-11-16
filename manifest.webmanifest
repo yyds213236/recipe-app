@@ -1,0 +1,17 @@
+{
+  "name": "小锅菜谱 · 今天吃点什么",
+  "short_name": "小锅菜谱",
+  "description": "选几样食材，看看今晚能做什么。纯离线的中国家常菜谱。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF8F2",
+  "theme_color": "#FDF8F2",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

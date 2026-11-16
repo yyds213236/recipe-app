@@ -1,6 +1,7 @@
 {
   "applied": [
-    "pwa-icon-file"
+    "pwa-icon-file",
+    "pwa-manifest-file"
   ],
   "runs": [
     {
@@ -8,6 +9,12 @@
       "id": "pwa-icon-file",
       "result": "applied",
       "title": "补一张 SVG 应用图标"
+    },
+    {
+      "date": "2026-11-16",
+      "id": "pwa-manifest-file",
+      "result": "applied",
+      "title": "新增 PWA manifest 文件"
     }
   ],
   "failed": {}
