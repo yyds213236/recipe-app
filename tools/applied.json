@@ -1,7 +1,8 @@
 {
   "applied": [
     "pwa-icon-file",
-    "pwa-manifest-file"
+    "pwa-manifest-file",
+    "pwa-manifest-link"
   ],
   "runs": [
     {
@@ -15,6 +16,12 @@
       "id": "pwa-manifest-file",
       "result": "applied",
       "title": "新增 PWA manifest 文件"
+    },
+    {
+      "date": "2026-11-17",
+      "id": "pwa-manifest-link",
+      "result": "applied",
+      "title": "index.html 挂上 manifest 链接"
     }
   ],
   "failed": {}
