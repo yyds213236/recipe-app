@@ -2,7 +2,8 @@
   "applied": [
     "pwa-icon-file",
     "pwa-manifest-file",
-    "pwa-manifest-link"
+    "pwa-manifest-link",
+    "favicon-link"
   ],
   "runs": [
     {
@@ -22,6 +23,12 @@
       "id": "pwa-manifest-link",
       "result": "applied",
       "title": "index.html 挂上 manifest 链接"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "favicon-link",
+      "result": "applied",
+      "title": "补 <link rel=\"icon\"> 指向 SVG 图标"
     }
   ],
   "failed": {}
