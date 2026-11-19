@@ -3,7 +3,8 @@
     "pwa-icon-file",
     "pwa-manifest-file",
     "pwa-manifest-link",
-    "favicon-link"
+    "favicon-link",
+    "ios-homescreen-meta"
   ],
   "runs": [
     {
@@ -29,6 +30,12 @@
       "id": "favicon-link",
       "result": "applied",
       "title": "补 <link rel=\"icon\"> 指向 SVG 图标"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "ios-homescreen-meta",
+      "result": "applied",
+      "title": "补 iOS 添加到主屏的 meta"
     }
   ],
   "failed": {}
