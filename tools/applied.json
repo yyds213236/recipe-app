@@ -4,7 +4,8 @@
     "pwa-manifest-file",
     "pwa-manifest-link",
     "favicon-link",
-    "ios-homescreen-meta"
+    "ios-homescreen-meta",
+    "og-card"
   ],
   "runs": [
     {
@@ -36,6 +37,12 @@
       "id": "ios-homescreen-meta",
       "result": "applied",
       "title": "补 iOS 添加到主屏的 meta"
+    },
+    {
+      "date": "2026-11-20",
+      "id": "og-card",
+      "result": "applied",
+      "title": "补 Open Graph 分享卡片"
     }
   ],
   "failed": {}
