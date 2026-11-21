@@ -5,7 +5,8 @@
     "pwa-manifest-link",
     "favicon-link",
     "ios-homescreen-meta",
-    "og-card"
+    "og-card",
+    "twitter-card"
   ],
   "runs": [
     {
@@ -43,6 +44,12 @@
       "id": "og-card",
       "result": "applied",
       "title": "补 Open Graph 分享卡片"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "twitter-card",
+      "result": "applied",
+      "title": "补 Twitter Card meta"
     }
   ],
   "failed": {}
