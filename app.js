@@ -759,6 +759,32 @@
     } else fail();
   }
 
+  /* ---------- 分享：系统分享面板 → 不支持就复制链接 ---------- */
+  function shareUrlFor(id) {
+    var base = (location.origin && location.origin !== 'null')
+      ? location.origin + location.pathname
+      : location.href.split('#')[0];   // file:// 下 origin 是 null，退回当前文件路径
+    return base + '#/recipe/' + id;
+  }
+
+  function bindShare(sheet, r) {
+    var btn = $('#share-recipe', sheet);
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var url = shareUrlFor(r.id);
+      var title = r.name + ' · 小锅菜谱';
+      var text = '今晚做这道：' + r.name + '，' + r.time + ' 分钟';
+      if (navigator.share) {
+        navigator.share({ title: title, text: text, url: url }).catch(function (err) {
+          if (err && err.name === 'AbortError') return;   // 用户自己取消的，不打扰
+          copyText(title + ' ' + url);
+        });
+        return;
+      }
+      copyText(title + ' ' + url);
+    });
+  }
+
   /* =========================================================
      菜谱详情 Sheet
      ========================================================= */
@@ -854,6 +880,7 @@
           '<button class="btn-primary" type="button" id="add-basket">' +
             (state.basket.has(r.id) ? '已在菜篮 · 移出' : '加入我的菜篮') +
           '</button>' +
+          '<button class="icon-btn" type="button" id="share-recipe" aria-label="分享这道菜">📤</button>' +
         '</footer>' +
       '</section>'
     );
@@ -868,6 +895,7 @@
     mask.addEventListener('click', closeSheet);
     $('#sh-close', sheet).addEventListener('click', closeSheet);
     $('#sh-timer', sheet).addEventListener('click', toggleTimerBlock);
+    bindShare(sheet, r);
 
     // 食材清单
     function renderIngList(container, items, prefix) {

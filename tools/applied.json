@@ -6,7 +6,8 @@
     "favicon-link",
     "ios-homescreen-meta",
     "og-card",
-    "twitter-card"
+    "twitter-card",
+    "share-button"
   ],
   "runs": [
     {
@@ -50,6 +51,12 @@
       "id": "twitter-card",
       "result": "applied",
       "title": "补 Twitter Card meta"
+    },
+    {
+      "date": "2026-11-22",
+      "id": "share-button",
+      "result": "applied",
+      "title": "详情页加「分享」按钮（系统分享 / 复制链接降级）"
     }
   ],
   "failed": {}
