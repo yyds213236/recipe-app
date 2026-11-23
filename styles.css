@@ -84,6 +84,16 @@ button, input, select, textarea{
 button{ cursor: pointer; border: none; background: none; padding: 0; }
 input{ border: none; background: none; }
 input:focus{ outline: none; }
+
+/* 键盘焦点圈：只在键盘/读屏操作时出现，鼠标点击不闪一圈 */
+:focus-visible{
+  outline: 2px solid var(--brand);                                   /* 老浏览器兜底 */
+  outline: 2px solid color-mix(in srgb, var(--brand) 68%, transparent);
+  outline-offset: 2px;
+}
+.card:focus-visible, .res-card:focus-visible, .ing:focus-visible,
+.chip:focus-visible, .cat-tab:focus-visible, .tab:focus-visible{ outline-offset: 3px; }
+input:focus-visible{ outline: none; }
 a{ color: var(--brand); text-decoration: none; }
 
 ::selection{ background: var(--brand-soft); color: var(--brand-dark); }

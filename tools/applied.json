@@ -7,7 +7,8 @@
     "ios-homescreen-meta",
     "og-card",
     "twitter-card",
-    "share-button"
+    "share-button",
+    "focus-visible"
   ],
   "runs": [
     {
@@ -57,6 +58,12 @@
       "id": "share-button",
       "result": "applied",
       "title": "详情页加「分享」按钮（系统分享 / 复制链接降级）"
+    },
+    {
+      "date": "2026-11-23",
+      "id": "focus-visible",
+      "result": "applied",
+      "title": "补 :focus-visible 键盘焦点圈"
     }
   ],
   "failed": {}
