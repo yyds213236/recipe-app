@@ -846,7 +846,8 @@
           '<div class="block" id="timer-block" hidden>' +
             '<div class="timer">' +
               '<div class="timer-row">' +
-                '<span class="timer-display" id="t-display">00:00</span>' +
+                '<span class="timer-display" id="t-display" role="timer" aria-live="off">00:00</span>' +
+                '<span class="sr-only" id="t-live" role="status" aria-live="polite"></span>' +
                 '<button class="tbtn" type="button" id="t-start">开始</button>' +
                 '<button class="tbtn" type="button" id="t-reset">重置</button>' +
                 '<span style="font-size:11.5px;color:var(--ink-3);margin-left:auto">到点会响一声</span>' +
@@ -1022,6 +1023,12 @@
     });
   }
 
+  /* 只播报状态变化，不读每一秒 */
+  function sayTimer(msg) {
+    var el = $('#t-live');
+    if (el) el.textContent = msg;
+  }
+
   function paintTimer() {
     var d = $('#t-display');
     if (!d) return;
@@ -1043,6 +1050,7 @@
     timer.total = ms;
     timer.left = ms;
     paintTimer();
+    sayTimer('计时 ' + Math.round(ms / 60000) + ' 分钟开始');
     timer.id = setInterval(function () {
       timer.left -= 250;
       if (timer.left <= 0) {
@@ -1051,6 +1059,7 @@
         clearInterval(timer.id);
         timer.id = 0;
         beep();
+        sayTimer('计时结束，时间到');
         toast('⏰ 时间到，去看看锅里');
         var start = $('#t-start');
         if (start) start.textContent = '开始';

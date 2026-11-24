@@ -8,7 +8,8 @@
     "og-card",
     "twitter-card",
     "share-button",
-    "focus-visible"
+    "focus-visible",
+    "timer-live-region"
   ],
   "runs": [
     {
@@ -64,6 +65,12 @@
       "id": "focus-visible",
       "result": "applied",
       "title": "补 :focus-visible 键盘焦点圈"
+    },
+    {
+      "date": "2026-11-24",
+      "id": "timer-live-region",
+      "result": "applied",
+      "title": "计时器改用 aria-live 播报状态"
     }
   ],
   "failed": {}
