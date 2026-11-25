@@ -1196,3 +1196,27 @@ a{ color: var(--brand); text-decoration: none; }
   color: var(--ink-3);
 }
 .credits-foot a{ color: var(--brand); text-decoration: none; }
+
+/* ---------- 跳到主内容（Tab 第一下出现，键盘/读屏用） ---------- */
+.skip-link{
+  position: absolute;
+  left: 12px;
+  top: -64px;
+  z-index: 400;
+  padding: 10px 16px;
+  border-radius: 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-m);
+  color: var(--brand-dark);
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: top .16s ease;
+}
+.skip-link:focus, .skip-link:focus-visible{
+  top: calc(12px + env(safe-area-inset-top, 0px));
+}
+@media (prefers-color-scheme: dark){
+  .skip-link{ color: var(--brand); }
+}

@@ -9,7 +9,8 @@
     "twitter-card",
     "share-button",
     "focus-visible",
-    "timer-live-region"
+    "timer-live-region",
+    "skip-link-style"
   ],
   "runs": [
     {
@@ -71,6 +72,12 @@
       "id": "timer-live-region",
       "result": "applied",
       "title": "计时器改用 aria-live 播报状态"
+    },
+    {
+      "date": "2026-11-25",
+      "id": "skip-link-style",
+      "result": "applied",
+      "title": "补「跳到主内容」链接样式"
     }
   ],
   "failed": {}
