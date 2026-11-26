@@ -10,7 +10,8 @@
     "share-button",
     "focus-visible",
     "timer-live-region",
-    "skip-link-style"
+    "skip-link-style",
+    "skip-link-html"
   ],
   "runs": [
     {
@@ -78,6 +79,12 @@
       "id": "skip-link-style",
       "result": "applied",
       "title": "补「跳到主内容」链接样式"
+    },
+    {
+      "date": "2026-11-26",
+      "id": "skip-link-html",
+      "result": "applied",
+      "title": "页面加「跳到主内容」链接"
     }
   ],
   "failed": {}
