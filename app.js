@@ -331,7 +331,7 @@
       '<div class="search">' +
         '<label class="search-box">' +
           '<span class="ico">🔍</span>' +
-          '<input id="pq" type="search" autocomplete="off" placeholder="搜食材，如 土豆 / 洋芋" ' +
+          '<input id="pq" type="search" inputmode="search" enterkeyhint="search" autocapitalize="off" spellcheck="false" autocomplete="off" placeholder="搜食材，如 土豆 / 洋芋" ' +
             'value="" aria-label="搜索食材">' +
           '<span class="kbd-hint">/</span>' +
         '</label>' +

@@ -11,7 +11,8 @@
     "focus-visible",
     "timer-live-region",
     "skip-link-style",
-    "skip-link-html"
+    "skip-link-html",
+    "pantry-search-attrs"
   ],
   "runs": [
     {
@@ -85,6 +86,12 @@
       "id": "skip-link-html",
       "result": "applied",
       "title": "页面加「跳到主内容」链接"
+    },
+    {
+      "date": "2026-11-27",
+      "id": "pantry-search-attrs",
+      "result": "applied",
+      "title": "食材页搜索框补 enterkeyhint / autocapitalize"
     }
   ],
   "failed": {}
